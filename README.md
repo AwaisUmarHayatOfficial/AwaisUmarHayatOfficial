@@ -62,8 +62,11 @@
 - Nagios
 
 📫 How to reach me...
+
 😄 Pronouns:
+
 ⚡ Fun fact:
+
 🔧 What I Do: I focus on enhancing development and operations through automation and efficient system design. My expertise includes:
 
 - 🚀 CI/CD Pipelines: Designing and implementing robust continuous integration and continuous deployment workflows to accelerate development cycles and boost productivity.
