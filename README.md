@@ -66,6 +66,8 @@
 - 📊 Nagios
 
 📫 **How to reach me...**
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/AwaisUmarHayat)
+
 
 😄 **Pronouns:**
 
