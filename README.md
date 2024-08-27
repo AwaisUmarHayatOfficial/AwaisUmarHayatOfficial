@@ -67,8 +67,6 @@
 
 📫 **How to reach me...**
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/AwaisUmarHayat)
-- **Twitter:** [Twitter Profile](https://www.x.com/in/AwaisUmarHayat)
-
 
 😄 **Pronouns:**
 
