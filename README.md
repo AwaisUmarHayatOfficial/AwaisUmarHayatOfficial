@@ -1,4 +1,4 @@
-Sure! Here’s your updated profile with bold headings:
+## DevOps & Cloud Engineer
 
 ---
 
@@ -81,5 +81,3 @@ Sure! Here’s your updated profile with bold headings:
 <!--- AwaisUmarHayatOfficial/AwaisUmarHayatOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
 
 ---
-
-Is there anything else you’d like to adjust?
