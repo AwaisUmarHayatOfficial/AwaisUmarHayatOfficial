@@ -1,5 +1,3 @@
-To integrate your project experience section into your existing GitHub README while keeping all your existing content intact, you should add the new section at an appropriate location. Here's how you can combine everything into one file:
-
 ---
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpeg)
@@ -162,4 +160,3 @@ To integrate your project experience section into your existing GitHub README wh
 
 ---
 
-Feel free to make any adjustments if needed. This combined README now includes both your project experience and your professional profile details.
