@@ -1,4 +1,17 @@
 ---
+🌐 **Web & Database Management:**
+- 🗃️ **SQL Databases:** MySQL, SQLite3, MongoDB  
+  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white) ![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+- 🗃️ **NoSQL Databases:** DynamoDB, Elasticsearch  
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazonaws&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+
+📊 **Monitoring Tools:**
+- 📊 **Zabbix**  
+  ![Zabbix](https://img.shields.io/badge/-Zabbix-1D7A4D?logo=zabbix&logoColor=white)
+- 📊 **Splunk**  
+  ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
+- 📊 **Nagios**  
+  ![Nagios](https://img.shields.io/badge/-Nagios-000000?logo=nagios&logoColor=white)
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpeg)
 
