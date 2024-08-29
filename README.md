@@ -1,5 +1,5 @@
 ---
-![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpeg)
+![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 
 # DevOps & Cloud Engineer
 ---
