@@ -1,5 +1,4 @@
-![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
-
+![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.jpg)
 # DevOps & Cloud Engineer
 ---
 👋 Hi, I’m **@AwaisUmarHayatOfficial**, a passionate DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
