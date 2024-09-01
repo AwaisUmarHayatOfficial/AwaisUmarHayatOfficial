@@ -1,7 +1,9 @@
+## Hi, I'm Awais Umar Hayat 👋
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.jpg)
 # DevOps & Cloud Engineer
 ---
-👋 Hi, I’m **@AwaisUmarHayatOfficial**, a passionate DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
+<p align="left"> <a href="https://twitter.com/AwaisUmarHayat" target="blank"><img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" /></a> </p>
+👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
 
 👀 I’m interested in **DevOps & Cloud Cyber Security Engineering**.
 
@@ -148,6 +150,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/awaisumarhayat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awaisumarhayat/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/awaisumarhayat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisumarhayatofficial&layout=compact)
+
+## ☕ Connect with me!
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/awaisumarhayatofficial)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/awaisumarhayat)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@awaisumarhayatofficials)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)  
 
 .svg" alt="https://www.facebook.com/awaisumarhayat/" height="30" width="40" /></a>
 </p>
