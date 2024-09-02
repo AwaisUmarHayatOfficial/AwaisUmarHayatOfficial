@@ -15,6 +15,15 @@
   <a href="https://gitlab.com/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/badge/-AwaisUmarHayat-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="AwaisUmarHayat" />
   </a>
+  <a href="https://www.youtube.com/c/awaisumarhayatofficials" target="blank">
+    <img src="https://img.shields.io/badge/-AwaisUmarHayat-red?style=for-the-badge&logo=youtube&logoColor=white" alt="AwaisUmarHayat" />
+  </a>
+  <a href="https://www.facebook.com/awaisumarhayatofficial" target="blank">
+    <img src="https://img.shields.io/badge/-AwaisUmarHayat-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="AwaisUmarHayat" />
+  </a>
+  <a href="https://www.instagram.com/awaisumarhayatofficial" target="blank">
+    <img src="https://img.shields.io/badge/-AwaisUmarHayat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AwaisUmarHayat" />
+  </a>
 </p>
 
 
