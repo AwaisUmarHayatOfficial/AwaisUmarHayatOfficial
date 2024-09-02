@@ -3,7 +3,7 @@
 # DevOps & Cloud Engineer
 ---
 <p align="left"> <a href="https://twitter.com/AwaisUmarHayat" target="blank"><img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/awaisumarhayat/" target="blank"><img src="https://img.shields.io/badge/-AwaisUmarHayat-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="AwaisUmarHayat" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/awaisumarhayat/" target="blank"><img src="https://img.shields.io/linkedin/follow/badge/-AwaisUmarHayat-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="AwaisUmarHayat" /></a> </p>
 
 
 👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
