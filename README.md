@@ -1,9 +1,8 @@
 # Hi, there 👋
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.jpg)
-<p align="center" style="font-family: 'Times New Roman', serif; font-size: 24px;">
+<p align="center" style="font-family: 'Times New Roman', serif; font-size: 240px;">
   <strong>DevOps & Cloud Engineer</strong>
 </p>
----
 <p align="left"> 
   <a href="https://x.com/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
