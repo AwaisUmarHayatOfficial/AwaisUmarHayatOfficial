@@ -3,7 +3,7 @@
 # DevOps & Cloud Engineer
 ---
 <p align="left"> 
-  <a href="https://twitter.com/AwaisUmarHayat" target="blank">
+  <a href="https://x.com/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
   </a> </p>
 <p align="left"> 
@@ -16,7 +16,7 @@
   <a href="https://gitlab.com/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/badge/-AwaisUmarHayat-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="AwaisUmarHayat" />
   </a>
-  <a href="https://www.youtube.com/c/awaisumarhayatofficials" target="blank">
+  <a href="https://www.youtube.com/@AwaisUmarHayatOfficials" target="blank">
     <img src="https://img.shields.io/badge/-AwaisUmarHayat-red?style=for-the-badge&logo=youtube&logoColor=white" alt="AwaisUmarHayat" />
   </a>
   <a href="https://www.facebook.com/awaisumarhayatofficial" target="blank">
