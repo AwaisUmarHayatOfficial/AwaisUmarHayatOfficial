@@ -49,7 +49,7 @@
   
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial/Projects)
 
-- 💬 Ask me about **DevOps & Cloud Cyber Security Engineer**
+- 💬 Ask me about **DevOps & Cloud Cyber Security**
 
 - 📫 How to reach me 
 
