@@ -14,7 +14,7 @@
 <!-- <h1 align="center" style="font-family: 'Garamond', serif;">DevOps & Cloud Engineer</h1> -->
 <!-- <h1 align="center" style="font-family: 'Garamond', serif;">DevOps & Cloud Engineer</h1> -->
 <!-- <h1 align="center" style="font-family: 'Georgia', serif; font-style: italic;">DevOps & Cloud Engineer</h1> -->
-
+<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
 <p align="left"> 
   <a href="https://x.com/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
