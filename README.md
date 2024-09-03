@@ -46,8 +46,12 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial/Projects)
+- 👨‍💻 All of my projects are available at:
+  
+  [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial/Projects)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AwaisUmarHayatOfficial/Projects](https://github.com/AwaisUmarHayatOfficial/Projects)
+
+<!--    👨‍💻 All of my projects are available at [https://github.com/AwaisUmarHayatOfficial/Projects](https://github.com/AwaisUmarHayatOfficial/Projects) -->
 
 - 💬 Ask me about **DevOps & Cloud Cyber Security Engineer**
 
