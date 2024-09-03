@@ -1,4 +1,4 @@
-<h1 align="left">Hey Everyone 👋, I'm Awais Umar Hayat</h1>
+<h1 align="left">Hey Everyone 👋, I'm Awais!</h1>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.jpg)
 
