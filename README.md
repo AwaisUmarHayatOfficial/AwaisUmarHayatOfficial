@@ -45,7 +45,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AwaisUmarHayatOfficial](https://github.com/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/AwaisUmarHayatOfficial/Projects](https://github.com/AwaisUmarHayatOfficial/Projects)
 
 - 💬 Ask me about **DevOps & Cloud Cyber Security Engineer**
 
