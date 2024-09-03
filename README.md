@@ -1,4 +1,3 @@
-<!-- # Hi, there 👋 -->
 <h1 align="center">Hey Everyone 👋, I'm Awais Umar Hayat</h1>
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.jpg)
 <!--  <h1 align="center">DevOps & Cloud Engineer</h1> -->
