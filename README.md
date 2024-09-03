@@ -15,6 +15,9 @@
 <!-- <h1 align="center" style="font-family: 'Garamond', serif;">DevOps & Cloud Engineer</h1> -->
 <!-- <h1 align="center" style="font-family: 'Georgia', serif; font-style: italic;">DevOps & Cloud Engineer</h1> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
+</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
