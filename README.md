@@ -68,7 +68,7 @@
 
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png' alt='Twitter' height='40'>](https://x.com/awaisumarhayat)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/WhatsApp.png' alt='WhatsApp' height='40'>](https://wa.me/923099610688)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png' alt='WhatsApp' height='40'>](https://wa.me/923099610688)
 <div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/awaisumarhayat/" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png" alt="LinkedIn" height="40">
