@@ -61,14 +61,13 @@
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)
 
 ### Connect with me:
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/facebook-logo.png' alt='Facebook' height='40'>](https://www.facebook.com/awaisumarhayatofficial)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/INSTAGRAM.png' alt='Instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TWITTERX.png' alt='Twitter' height='40'>](https://twitter.com/awaisumarhayat)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/GITHUB.png' alt='GitHub' height='40'>](https://github.com/AwaisUmarHayatOfficial)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/gitlab%20(1).png' alt='GitLab' height='40'>](https://gitlab.com/awaisumarhayat)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/LINKEDIN.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsaap.png' alt='WhatsApp' height='40'>](https://wa.me/your-number)
-[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/GMAIL.png' alt='Gmail' height='40'>](mailto:AwaisUmarHayatOfficial@gmail.com)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Twitter.png' alt='Twitter' height='40'>](https://twitter.com/awaisumarhayat)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png' alt='GitHub' height='40'>](https://github.com/AwaisUmarHayatOfficial)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gitlab.png' alt='GitLab' height='40'>](https://gitlab.com/awaisumarhayat)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png' alt='WhatsApp' height='40'>](https://wa.me/your-number)
+[<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gmail.png' alt='Gmail' height='40'>](mailto:AwaisUmarHayatOfficial@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
