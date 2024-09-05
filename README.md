@@ -68,54 +68,30 @@
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png' alt='Twitter' height='40'>](https://x.com/awaisumarhayat)
 
 <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/awaisumarhayat/" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png" alt="LinkedIn" height="40">
     </a>
-    <a href="https://github.com/AwaisUmarHayatOfficial" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/AwaisUmarHayatOfficial" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png" alt="GitHub" height="40">
     </a>
-    <a href="https://gitlab.com/awaisumarhayat" target="_blank" rel="noopener noreferrer">
+    <a href="https://gitlab.com/awaisumarhayat" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gitlab.png" alt="GitLab" height="40">
     </a>
-    <a href="mailto:AwaisUmarHayatOfficial@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:AwaisUmarHayatOfficial@gmail.com" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gmail.png" alt="Gmail" height="40">
     </a>
-    <a href="https://wa.me/923099610688" target="_blank" rel="noopener noreferrer">
+    <a href="https://wa.me/923099610688" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png" alt="WhatsApp" height="40">
     </a>
-    <a href="https://www.instagram.com/awaisumarhayatofficial/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.instagram.com/awaisumarhayatofficial/" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png" alt="Instagram" height="40">
     </a>
-    <a href="https://x.com/awaisumarhayat" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/awaisumarhayat" onclick="window.open(this.href); return false;">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png" alt="Twitter" height="40">
     </a>
 </div>
 
 
-
-<div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
-        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png" alt="LinkedIn" height="40">
-    </a>
-    <a href="https://github.com/AwaisUmarHayatOfficial" target="_blank">
-        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png" alt="GitHub" height="40">
-    </a>
-    <a href="https://gitlab.com/awaisumarhayat" target="_blank">
-        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gitlab.png" alt="GitLab" height="40">
-    </a>
-    <a href="mailto:AwaisUmarHayatOfficial@gmail.com">
-        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gmail.png" alt="Gmail" height="40">
-    </a>
-    <a href="https://wa.me/923099610688" target="_blank">
-        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png" alt="WhatsApp" height="40">
-    </a>
-    <a href="https://www.instagram.com/awaisumarhayatofficial/" target="_blank">
-        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png" alt="Instagram" height="40">
-    </a>
-    <a href="https://x.com/awaisumarhayat" target="_blank">
-        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png" alt="Twitter" height="40">
-    </a>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
