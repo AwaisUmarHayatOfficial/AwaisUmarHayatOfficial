@@ -62,10 +62,6 @@
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png' alt='GitHub' height='40'>](https://github.com/AwaisUmarHayatOfficial)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gitlab.png' alt='GitLab' height='40'>](https://gitlab.com/awaisumarhayat)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gmail.png' alt='Gmail' height='40'>](mailto:AwaisUmarHayatOfficial@gmail.com)
-<a href="https://wa.me/923099610688" target="_blank">
-    <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png" alt="WhatsApp" height="40">
-</a>
-
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png' alt='Twitter' height='40'>](https://x.com/awaisumarhayat)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png' alt='WhatsApp' height='40'>](https://wa.me/923099610688)
