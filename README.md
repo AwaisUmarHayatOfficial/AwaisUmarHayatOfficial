@@ -1,5 +1,4 @@
-<h1 align="left">Hey Everyone 👋, I'm Awais!</h1>
-
+<h2 align="left"> Hey there! 👋, I'm Awais !.</h1>
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 
 <!-- <p align="center">
