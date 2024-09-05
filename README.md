@@ -68,6 +68,32 @@
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png' alt='Twitter' height='40'>](https://x.com/awaisumarhayat)
 
 <div style="display: flex; align-items: center;">
+    <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png" alt="LinkedIn" height="40">
+    </a>
+    <a href="https://github.com/AwaisUmarHayatOfficial" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png" alt="GitHub" height="40">
+    </a>
+    <a href="https://gitlab.com/awaisumarhayat" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gitlab.png" alt="GitLab" height="40">
+    </a>
+    <a href="mailto:AwaisUmarHayatOfficial@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gmail.png" alt="Gmail" height="40">
+    </a>
+    <a href="https://wa.me/923099610688" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png" alt="WhatsApp" height="40">
+    </a>
+    <a href="https://www.instagram.com/awaisumarhayatofficial/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png" alt="Instagram" height="40">
+    </a>
+    <a href="https://x.com/awaisumarhayat" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png" alt="Twitter" height="40">
+    </a>
+</div>
+
+
+
+<div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
         <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png" alt="LinkedIn" height="40">
     </a>
