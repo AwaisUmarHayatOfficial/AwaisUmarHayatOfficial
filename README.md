@@ -2,20 +2,8 @@
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 
-<!-- <p align="center">
-  <img src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.jpg" alt="Banner">
-</p>
--->
-
-<!--  <h2 align="center"> DevOps & Cloud Cyber Security Engineer</h2> -->
-<!-- <h2 align="center" style="font-family: 'Times New Roman', Times, serif; font-style: italic; font-weight: bold;">DevOps & Cloud Cyber Security Engineer</h2>  -->
-
 <h2 align="left"> DevOps & Cloud Cyber Security Engineer </h1>
 
-<!-- <h1 align="center" style="font-family: 'Times New Roman', Times, serif;  font-style: italic;">DevOps & Cloud Engineer</h1>  -->
-<!-- <h1 align="center" style="font-family: 'Garamond', serif;">DevOps & Cloud Engineer</h1> -->
-<!-- <h1 align="center" style="font-family: 'Garamond', serif;">DevOps & Cloud Engineer</h1> -->
-<!-- <h1 align="center" style="font-family: 'Georgia', serif; font-style: italic;">DevOps & Cloud Engineer</h1> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
 </p>
@@ -49,12 +37,11 @@
 
 - 👨‍💻 All of my projects are available at:
   
-  [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial/Projects)
+  [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
 - 💬 Ask me about **DevOps & Cloud Cyber Security**
 
 - 📫 How to reach me 
-
 
 ### Connect with me:
 
