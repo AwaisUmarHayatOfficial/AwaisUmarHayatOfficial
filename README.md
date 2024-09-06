@@ -64,7 +64,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>  
 
 <!--                      -----------------------------------------------------------------------------------------            -->
-🐧 Ubuntu  |  🖥️ CentOS 7  |  🕵️‍♂️ Kali Linux  |  🪟 Windows Server 2019
 
 
 👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
@@ -83,81 +82,29 @@
 
 💞 I’m looking to collaborate on...
 
-🖥️ **Operating Systems:**
-🐧 Ubuntu &nbsp;|&nbsp; 🖥️ CentOS 7 &nbsp;|&nbsp; 🕵️‍♂️ Kali Linux &nbsp;|&nbsp; 🪟 Windows Server 2019
+## 🖥️ **Operating Systems:**
+🐧 Ubuntu  •  🖥️ CentOS 7  •  🕵️‍♂️ Kali Linux  •  🪟 Windows Server 2019
 
-🔧 **Version Control & CI/CD:**
-🦊 Git &nbsp;|&nbsp; 🛠️ Jenkins CI/CD &nbsp;|&nbsp; 🏭 GitLab CI/CD &nbsp;|&nbsp; 🌀 CircleCI &nbsp;|&nbsp; 🔄 GitHub Actions
+## 🔧 **Version Control & CI/CD:**
+🦊 Git  •  🛠️ Jenkins CI/CD  •  🏭 GitLab CI/CD  •  🌀 CircleCI  •  🔄 GitHub Actions
 
-☁️ **Cloud Technologies:**
-☁️ AWS Elastic Compute Cloud (EC2) &nbsp;|&nbsp; 💾 Simple Storage Service (S3) &nbsp;|&nbsp; 🗃️ DynamoDB (NoSQL Database) &nbsp;|&nbsp; ⚡ Lambda
+## ☁️ **Cloud Technologies:**
+☁️ AWS Elastic Compute Cloud (EC2)  •  💾 Simple Storage Service (S3)  •  🗃️ DynamoDB (NoSQL Database)  •  ⚡ Lambda
 
-🐳 **Containerization & Orchestration:**
-🐳 Docker &nbsp;|&nbsp; ☸️ Kubernetes
+## 🐳 **Containerization & Orchestration:**
+🐳 Docker  •  ☸️ Kubernetes
 
-🛠️ **Infrastructure as Code & Configuration Management:**
-🔨 Terraform &nbsp;|&nbsp; ⚙️ Ansible &nbsp;|&nbsp; 🧰 Vagrant &nbsp;|&nbsp; 🍴 Chef
+## 🛠️ **Infrastructure as Code & Configuration Management:**
+🔨 Terraform  •  ⚙️ Ansible  •  🧰 Vagrant  •  🍴 Chef
 
-💻 **Scripting:**
-🐍 Python &nbsp;|&nbsp; 💎 Groovy &nbsp;|&nbsp; 🖥️ Bash &nbsp;|&nbsp; 🗃️ JSON (JavaScript Object Notation) &nbsp;|&nbsp; 📜 YAML (YAML Ain't Markup Language)
+## 💻 **Scripting:**
+🐍 Python  •  💎 Groovy  •  🖥️ Bash  •  🗃️ JSON (JavaScript Object Notation)  •  📜 YAML (YAML Ain't Markup Language)
 
-🌐 **Web & Database Management:**
-🖥️ phpMyAdmin &nbsp;|&nbsp; 🛠️ cPanel &nbsp;|&nbsp; 🗃️ SQL Databases (MySQL, SQLite3, MongoDB) &nbsp;|&nbsp; 🗃️ NoSQL Databases (DynamoDB, Elasticsearch)
+## 🌐 **Web & Database Management:**
+🖥️ phpMyAdmin  •  🛠️ cPanel  •  🗃️ SQL Databases (MySQL, SQLite3, MongoDB)  •  🗃️ NoSQL Databases (DynamoDB, Elasticsearch)
 
-📊 **Monitoring Tools:**
-📊 Zabbix &nbsp;|&nbsp; 📊 Nagios
-
-
-
-🖥️ **Operating Systems:**
-- 🐧 Ubuntu
-- 🖥️ CentOS 7
-- 🕵️‍♂️ Kali Linux
-- 🪟 Windows Server 2019
-
-🔧 **Version Control & CI/CD:**
-- 🦊 Git
-- 🛠️ Jenkins CI/CD
-- 🏭 GitLab CI/CD
-- 🌀 CircleCI
-- 🔄 GitHub Actions
-
-☁️ **Cloud Technologies:**
-- ☁️ AWS Elastic Compute Cloud (EC2)
-- 💾 Simple Storage Service (S3)
-- 🗃️ DynamoDB (NoSQL Database)
-- ⚡ Lambda
-
-🐳 **Containerization & Orchestration:**
-- 🐳 Docker
-- ☸️ Kubernetes
-
-🛠️ **Infrastructure as Code & Configuration Management:**
-- 🔨 Terraform
-- ⚙️ Ansible
-- 🧰 Vagrant
-- 🍴 Chef
-
-💻 **Scripting:**
-- 🐍 Python
-- 💎 Groovy
-- 🖥️ Bash
-- 🗃️ JSON (JavaScript Object Notation)
-- 📜 YAML (YAML Ain't Markup Language)
-
-🌐 **Web & Database Management:**
-- 🖥️ phpMyAdmin
-- 🛠️ cPanel
-- 🗃️ SQL Databases (MySQL, SQLite3, MongoDB)    
-- 🗃️ NoSQL Databases (DynamoDB, Elasticsearch)
-
-📊 **Monitoring Tools:**
-- 📊 Zabbix
-- 📊 Nagios
-
-😄 **Pronouns:**
-
-⚡ **Fun fact:**
+## 📊 **Monitoring Tools:**
+📊 Zabbix  •  📊 Nagios
 
 🔧 **What I Do:** I focus on enhancing development and operations through automation and efficient system design. My expertise includes:
 
