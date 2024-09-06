@@ -80,6 +80,32 @@
 
 💞 I’m looking to collaborate on...
 
+## 🖥️ Operating Systems:
+🐧 Ubuntu &nbsp;|&nbsp; 🖥️ CentOS 7 &nbsp;|&nbsp; 🕵️‍♂️ Kali Linux &nbsp;|&nbsp; 🪟 Windows Server 2019
+
+## 🔧 Version Control & CI/CD:
+🦊 Git &nbsp;|&nbsp; 🛠️ Jenkins CI/CD &nbsp;|&nbsp; 🏭 GitLab CI/CD &nbsp;|&nbsp; 🌀 CircleCI &nbsp;|&nbsp; 🔄 GitHub Actions
+
+## ☁️ Cloud Technologies:
+☁️ AWS Elastic Compute Cloud (EC2) &nbsp;|&nbsp; 💾 Simple Storage Service (S3) &nbsp;|&nbsp; 🗃️ DynamoDB (NoSQL Database) &nbsp;|&nbsp; ⚡ Lambda
+
+## 🐳 Containerization & Orchestration:
+🐳 Docker &nbsp;|&nbsp; ☸️ Kubernetes
+
+## 🛠️ Infrastructure as Code & Configuration Management:
+🔨 Terraform &nbsp;|&nbsp; ⚙️ Ansible &nbsp;|&nbsp; 🧰 Vagrant &nbsp;|&nbsp; 🍴 Chef
+
+## 💻 Scripting:
+🐍 Python &nbsp;|&nbsp; 💎 Groovy &nbsp;|&nbsp; 🖥️ Bash &nbsp;|&nbsp; 🗃️ JSON (JavaScript Object Notation) &nbsp;|&nbsp; 📜 YAML (YAML Ain't Markup Language)
+
+## 🌐 Web & Database Management:
+🖥️ phpMyAdmin &nbsp;|&nbsp; 🛠️ cPanel &nbsp;|&nbsp; 🗃️ SQL Databases (MySQL, SQLite3, MongoDB) &nbsp;|&nbsp; 🗃️ NoSQL Databases (DynamoDB, Elasticsearch)
+
+## 📊 Monitoring Tools:
+📊 Zabbix &nbsp;|&nbsp; 📊 Nagios
+
+
+
 🖥️ **Operating Systems:**
 - 🐧 Ubuntu
 - 🖥️ CentOS 7
