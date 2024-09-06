@@ -36,15 +36,12 @@
   </a>
 </p>
 
+👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
+- 💬 Ask me about **DevOps & Cloud Cyber Security** • **Cloud Plateform** • **AWS** (Amazon Web Service) • **Microsoft Azure** • Docker • Kubernetes • Ansible • Chef
 - 👨‍💻 All of my projects are available at:
   
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
-- 💬 Ask me about **DevOps & Cloud Cyber Security**
-
-👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
-
-💬 **Ask me about:** <br> • **Cloud Plateform** • **AWS** (Amazon Web Service) • **Microsoft Azure** • Docker • Kubernetes • Ansible • Chef
 <h2 align="left"> Skills:</h2>
 
 - **Operating Systems:** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=red&labelColor=lightgreen) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-DBDB00?style=flat&logo=centos&logoColor=black&labelColor=lightblue) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=yellow) • ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=lightblue) <br>
