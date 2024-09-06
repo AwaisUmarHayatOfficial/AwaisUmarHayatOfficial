@@ -1,7 +1,37 @@
 <h2 align="left"> Hey there! 👋, I'm Awais !</h1>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
+<!-- ##################################################################### -->
+🖥️ **Operating Systems:**
+<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat&logo=centos&logoColor=white) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) • ![Windows Server 2019](https://img.shields.io/badge/Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white) <br>
+🔧 **Version Control & CI/CD:**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) • ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white) • ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white) • ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) <br>
+☁️ **Cloud Technologies:**
+<br>
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white) • ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white) • ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) • ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white) <br>
+🐳 **Containerization & Orchestration:**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) • ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) <br>
+🛠️ **Infrastructure as Code & Configuration Management:**
+<br>
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) • ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white) • ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white) • ![Chef](https://img.shields.io/badge/Chef-000000?style=flat&logo=chef&logoColor=white) <br>
+💻 **Scripting:**
+<br>
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white) • ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apache-groovy&logoColor=white) • ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) • ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) • ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=white) <br>
+🌐 **Web & Database Management:**
+<br>
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=white) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=white) <br>
+📊 **Monitoring Tools:**
+<br>
+![Zabbix](https://img.shields.io/badge/Zabbix-DBDB00?style=flat&logo=zabbix&logoColor=white) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white) <br>
 
+
+
+
+
+<!-- ##################################################################### -->
 **Operating Systems:**
 <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&labelColor=blue) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat&logo=centos&logoColor=white&labelColor=green) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white&labelColor=gray) • ![Windows Server 2019](https://img.shields.io/badge/Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white&labelColor=black) <br>
