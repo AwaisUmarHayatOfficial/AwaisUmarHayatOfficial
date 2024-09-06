@@ -90,6 +90,7 @@
 🖥️ **Operating Systems:**
 <br>
 ![Ubuntu](https://img.shields.io/badge/_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) • ![CentOS 7](https://img.shields.io/badge/_CentOS_7-262577?style=flat&logo=centos&logoColor=white) • ![Kali Linux](https://img.shields.io/badge/_Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) • ![Windows Server 2019](https://img.shields.io/badge/_Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white)
+![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat&logo=centos&logoColor=white&labelColor=orange)
 
 🔧 **Version Control & CI/CD:**
 <br>
