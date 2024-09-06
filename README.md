@@ -1,4 +1,4 @@
-<h2 align="left"> Hey there! 👋, I'm Awais !</h1>
+<h2 align="left"> Hey there! 👋, I'm Awais !</h2>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 <!-- ##################################################################### -->
@@ -70,17 +70,8 @@
 
 👀 I’m interested in **DevOps & Cloud Cyber Security Engineering**.
 
-🌱 I’m currently learning...
-
 💬 **Ask me about:** Cloud Plateform, AWS (Amazon Web Service), Microsoft Azure, Docker, Kubernetes, Ansible, Chef
-
-☁️ **Cloud Platforms:** AWS (Amazon Web Services), Microsoft Azure
-
-🐳 **Containerization & Orchestration:** Docker, Kubernetes
-
-⚙️ **Configuration Management & Automation:** Ansible, Chef
-
-💞 I’m looking to collaborate on...
+<h2 align="left"> SKILLS:</h2>
 
 **Operating Systems:**
 <br>![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&labelColor=blue) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat&logo=centos&logoColor=white&labelColor=green) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white&labelColor=gray) • ![Windows Server 2019](https://img.shields.io/badge/Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white&labelColor=black) <br>
