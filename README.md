@@ -89,6 +89,7 @@
 
 🖥️ **Operating Systems:**
 🐧 Ubuntu  •  🖥️ CentOS 7  •  🕵️‍♂️ Kali Linux  •  🪟 Windows Server 2019
+![Ubuntu](https://img.shields.io/badge/🐧_Ubuntu-333333?style=flat&logo=ubuntu&logoColor=orange) • ![CentOS 7](https://img.shields.io/badge/🖥️_CentOS_7-333333?style=flat&logo=centos&logoColor=green) • ![Kali Linux](https://img.shields.io/badge/🕵️‍♂️_Kali_Linux-333333?style=flat&logo=kalilinux&logoColor=blue) • ![Windows Server 2019](https://img.shields.io/badge/🪟_Windows_Server_2019-333333?style=flat&logo=windows&logoColor=blue)
 
 🔧 **Version Control & CI/CD:**
 🦊 Git  •  🛠️ Jenkins CI/CD  •  🏭 GitLab CI/CD  •  🌀 CircleCI  •  🔄 GitHub Actions
