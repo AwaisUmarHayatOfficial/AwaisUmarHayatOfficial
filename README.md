@@ -64,6 +64,9 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>  
 
 <!--                      -----------------------------------------------------------------------------------------            -->
+🐧 Ubuntu  |  🖥️ CentOS 7  |  🕵️‍♂️ Kali Linux  |  🪟 Windows Server 2019
+
+
 👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
 
 👀 I’m interested in **DevOps & Cloud Cyber Security Engineering**.
