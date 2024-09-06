@@ -2,14 +2,16 @@
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 
-<h2 align="left"> DevOps & Cloud Cyber Security Engineer </h1>
+<h2 align="left"> DevOps & Cloud Security Engineer </h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
 </p>
-About me:
-<br> 👋 Hi, I’m Awais Umar Hayat, a Senior DevOps & Cloud Security Engineer with a knack for automating workflows and optimizing system performance. <br> 💬 Ask me about: <br> DevOps & Cloud Cyber Security <br> • Cloud Platforms: <br> • AWS (Amazon Web Services) <br> • Microsoft Azure <br> • Docker <br> • Kubernetes <br> • Ansible <br> • Chef
 
+**About me:**  
+<br>
+👋 Hi, I’m **Awais Umar Hayat**, a Senior DevOps & Cloud Security Engineer with a knack for automating workflows and optimizing system performance. <br>
+💬 **Ask me about:** <br> **DevOps & Cloud Cyber Security** <br> • **Cloud Platforms:** <br> • **AWS** (Amazon Web Services) <br> • **Microsoft Azure** <br> • Docker <br> • Kubernetes <br> • Ansible <br> • Chef
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
 <p align="left"> 
