@@ -1,4 +1,4 @@
-<h2 align="left"> Hey there! 👋, I'm Awais !</h2>
+<h2 align="left"> Hello! 👋, I'm Awais</h2>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 <!-- ##################################################################### -->
