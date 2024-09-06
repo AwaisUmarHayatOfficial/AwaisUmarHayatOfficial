@@ -58,7 +58,7 @@
 - **Web & Database Management:** <br> ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white&labelColor=yellow) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white&labelColor=gray) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=lightgray) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=white&labelColor=green) <br>
 - **Monitoring Tools:** <br> ![Zabbix](https://img.shields.io/badge/Zabbix-DBDB00?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
 
-<h3>How to reach me:</h3> <br>
+#### **How to reach me:** <br>
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png' alt='GitHub' height='40'>](https://github.com/AwaisUmarHayatOfficial)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gitlab.png' alt='GitLab' height='40'>](https://gitlab.com/awaisumarhayat)
