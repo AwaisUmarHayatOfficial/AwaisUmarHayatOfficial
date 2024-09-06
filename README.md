@@ -65,6 +65,7 @@
 
 <!--                      -----------------------------------------------------------------------------------------            -->
 
+![Jenkins](https://img.shields.io/badge/Jenkins-333333?style=flat&logo=jenkins&logoColor=blue)
 
 👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
 
