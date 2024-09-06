@@ -9,7 +9,7 @@
 </p>
 
 👋 Hi, I’m **Awais Umar Hayat**, a Senior DevOps & Cloud Security Engineer with a knack for automating workflows and optimizing system performance. <br>
-**💬 Ask me about:** <br> **DevOps & Cloud Cyber Security** • **Cloud Plateform** • **AWS** (Amazon Web Service) • **Microsoft Azure** • Docker • Kubernetes • Ansible • Chef
+**💬 Ask me about:** <br> **DevOps & Cloud Cyber Security** <br> • **Cloud Plateform:** <br>  • **AWS** (Amazon Web Service)<br> • **Microsoft Azure** <br> • Docker • Kubernetes • Ansible • Chef
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
