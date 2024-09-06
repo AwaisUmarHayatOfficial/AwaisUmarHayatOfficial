@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
 <p align="left"> 
-  <a href="https://x.com/AwaisUmarHayat" target="blank">
+  <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
   </a> </p>
 <p align="left"> 
