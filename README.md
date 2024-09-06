@@ -12,27 +12,27 @@
 
 ☁️ **Cloud Technologies:**
 <br>
-☁️ ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white&labelColor=blue) • 💾 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white&labelColor=black) • 🗃️ ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white&labelColor=yellow) • ⚡ ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white&labelColor=gray)
+• ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white&labelColor=blue) • ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white&labelColor=black) • ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white&labelColor=yellow) • ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white&labelColor=gray)
 
 🐳 **Containerization & Orchestration:**
 <br>
-🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=lightgray) • ☸️ ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=green)
+• ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=lightgray) • ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=green)
 
 🛠️ **Infrastructure as Code & Configuration Management:**
 <br>
-🔨 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white&labelColor=orange) • ⚙️ ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white&labelColor=lightgreen) • 🧰 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white&labelColor=purple) • 🍴 ![Chef](https://img.shields.io/badge/Chef-F09820?style=flat&logo=chef&logoColor=white&labelColor=lightblue)
+• ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white&labelColor=orange) • ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white&labelColor=lightgreen) • ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white&labelColor=purple) • ![Chef](https://img.shields.io/badge/Chef-F09820?style=flat&logo=chef&logoColor=white&labelColor=lightblue)
 
 💻 **Scripting:**
 <br>
-🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=lightyellow) • 💎 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white&labelColor=lightgreen) • 🖥️ ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=gray) • 🗃️ ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white&labelColor=teal) • 📜 ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=white&labelColor=lightblue)
+• ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=lightyellow) • ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white&labelColor=lightgreen) • ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=gray) • ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white&labelColor=teal) • ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=white&labelColor=lightblue)
 
 🌐 **Web & Database Management:**
 <br>
-🖥️ ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white&labelColor=yellow) • 🛠️ ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white&labelColor=gray) • 🗃️ ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=lightgray) • 🗃️ ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=white&labelColor=green)
+• ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white&labelColor=yellow) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white&labelColor=gray) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=lightgray) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=white&labelColor=green)
 
 📊 **Monitoring Tools:**
 <br>
-📊 ![Zabbix](https://img.shields.io/badge/Zabbix-DBDB00?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • 📊 ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)
+• ![Zabbix](https://img.shields.io/badge/Zabbix-DBDB00?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)
 
 
 
