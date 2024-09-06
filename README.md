@@ -47,7 +47,7 @@
 👀 I’m interested in **DevOps & Cloud Cyber Security Engineering**.
 
 💬 **Ask me about:** Cloud Plateform, AWS (Amazon Web Service), Microsoft Azure, Docker, Kubernetes, Ansible, Chef
-<h2 align="left"> SKILLS:</h2>
+<h2 align="left"> Skills:</h2>
 
 - **Operating Systems:** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&labelColor=blue) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat&logo=centos&logoColor=white&labelColor=green) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white&labelColor=gray) • ![Windows Server 2019](https://img.shields.io/badge/Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white&labelColor=black) <br>
 - **Version Control & CI/CD:** <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=lightgray) • ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white&labelColor=lightblue) • ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white&labelColor=purple) • ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white&labelColor=orange) • ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=teal) <br>
@@ -58,7 +58,7 @@
 - **Web & Database Management:** <br> ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white&labelColor=yellow) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white&labelColor=gray) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=lightgray) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=white&labelColor=green) <br>
 - **Monitoring Tools:** <br> ![Zabbix](https://img.shields.io/badge/Zabbix-DBDB00?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
 
-#### **How to reach me:** <br>
+### **How to reach me:** <br>
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png' alt='GitHub' height='40'>](https://github.com/AwaisUmarHayatOfficial)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Gitlab.png' alt='GitLab' height='40'>](https://gitlab.com/awaisumarhayat)
