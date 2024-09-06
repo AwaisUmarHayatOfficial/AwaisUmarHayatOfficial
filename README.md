@@ -88,27 +88,34 @@
 💞 I’m looking to collaborate on...
 
 🖥️ **Operating Systems:**
-🐧 Ubuntu  •  🖥️ CentOS 7  •  🕵️‍♂️ Kali Linux  •  🪟 Windows Server 2019
-![Ubuntu](https://img.shields.io/badge/🐧_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) • ![CentOS 7](https://img.shields.io/badge/🖥️_CentOS_7-262577?style=flat&logo=centos&logoColor=white) • ![Kali Linux](https://img.shields.io/badge/🕵️‍♂️_Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) • ![Windows Server 2019](https://img.shields.io/badge/🪟_Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white)
+<br>
+![Ubuntu](https://img.shields.io/badge/_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) • ![CentOS 7](https://img.shields.io/badge/_CentOS_7-262577?style=flat&logo=centos&logoColor=white) • ![Kali Linux](https://img.shields.io/badge/_Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) • ![Windows Server 2019](https://img.shields.io/badge/_Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white)
 🔧 **Version Control & CI/CD:**
+<br>
 🦊 Git  •  🛠️ Jenkins CI/CD  •  🏭 GitLab CI/CD  •  🌀 CircleCI  •  🔄 GitHub Actions
 
 ☁️ **Cloud Technologies:**
+<br>
 ☁️ AWS Elastic Compute Cloud (EC2)  •  💾 Simple Storage Service (S3)  •  🗃️ DynamoDB (NoSQL Database)  •  ⚡ Lambda
 
 🐳 **Containerization & Orchestration:**
+<br>
 🐳 Docker  •  ☸️ Kubernetes
 
 🛠️ **Infrastructure as Code & Configuration Management:**
+<br>
 🔨 Terraform  •  ⚙️ Ansible  •  🧰 Vagrant  •  🍴 Chef
 
 💻 **Scripting:**
+<br>
 🐍 Python  •  💎 Groovy  •  🖥️ Bash  •  🗃️ JSON (JavaScript Object Notation)  •  📜 YAML (YAML Ain't Markup Language)
 
 🌐 **Web & Database Management:**
+<br>
 🖥️ phpMyAdmin  •  🛠️ cPanel  •  🗃️ SQL Databases (MySQL, SQLite3, MongoDB)  •  🗃️ NoSQL Databases (DynamoDB, Elasticsearch)
 
 📊 **Monitoring Tools:**
+<br>
 📊 Zabbix  •  📊 Nagios
 
 🔧 **What I Do:** I focus on enhancing development and operations through automation and efficient system design. My expertise includes:
