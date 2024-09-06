@@ -34,6 +34,7 @@
 <br>
 ![Zabbix](https://img.shields.io/badge/Zabbix-DBDB00?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
 
+
 <!-- ##################################################################### -->
 **Operating Systems:**
 <br>
