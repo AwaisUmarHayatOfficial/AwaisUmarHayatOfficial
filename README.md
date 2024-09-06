@@ -44,9 +44,7 @@
 
 👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
 
-👀 I’m interested in **DevOps & Cloud Cyber Security Engineering**.
-
-💬 **Ask me about:** Cloud Plateform, AWS (Amazon Web Service), Microsoft Azure, Docker, Kubernetes, Ansible, Chef
+💬 **Ask me about:** <br> **Cloud Plateform**, **AWS** (Amazon Web Service), **Microsoft Azure**, Docker, Kubernetes, Ansible, Chef
 <h2 align="left"> Skills:</h2>
 
 - **Operating Systems:** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&labelColor=blue) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat&logo=centos&logoColor=black&labelColor=green) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=blue) • ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=black) <br>
