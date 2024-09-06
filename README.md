@@ -1,7 +1,6 @@
 <h2 align="left"> Hello! 👋, I'm Awais</h2>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
-<!-- ##################################################################### -->
 
 <h2 align="left"> DevOps & Cloud Cyber Security Engineer </h1>
 
@@ -10,7 +9,7 @@
 </p>
 
 👋 Hi, I’m **@AwaisUmarHayat**, a Senior DevOps/Cloud Engineer with a knack for automating workflows and optimizing system performance.
-- 💬 Ask me about **DevOps & Cloud Cyber Security** • **Cloud Plateform** • **AWS** (Amazon Web Service) • **Microsoft Azure** • Docker • Kubernetes • Ansible • Chef
+💬 Ask me about **DevOps & Cloud Cyber Security** • **Cloud Plateform** • **AWS** (Amazon Web Service) • **Microsoft Azure** • Docker • Kubernetes • Ansible • Chef
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
@@ -39,7 +38,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at:
+👨‍💻 All of my projects are available at:
   
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
