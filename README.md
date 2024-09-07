@@ -3,6 +3,8 @@
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 Sure! Here are the badges with icons included:
 
+Let's add appropriate icons to each badge:
+
 1. **DevOps**
    - ![DevOps](https://img.shields.io/badge/DevOps-0C9F8C?style=flat&logo=devops&logoColor=white&labelColor=lightgreen)
 
@@ -13,10 +15,9 @@ Sure! Here are the badges with icons included:
    - ![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF9900?style=flat&logo=cloud&logoColor=white&labelColor=orange)
 
 4. **Cloud CyberSecurity**
-   - ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-CC0000?style=flat&logo=cloud&logoColor=white&labelColor=red)
+   - ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-CC0000?style=flat&logo=cloudflare&logoColor=white&labelColor=red)
 
-Aap yeh badges apne profile aur CV me use kar sakte hain!
-
+These badges now include appropriate icons for each category.
 <h2 align="left"> DevOps & Cloud CyberSecurity Engineer </h2>
 
 <p align="left">
