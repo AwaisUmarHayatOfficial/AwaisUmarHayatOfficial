@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
 
 **About me:**  
 <br>
@@ -17,7 +16,7 @@
 
 💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure 
 
-<!-- <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">  -->
+<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif"> 
 <p align="left"> 
   <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
