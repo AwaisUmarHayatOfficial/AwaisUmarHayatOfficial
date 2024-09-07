@@ -39,7 +39,13 @@
   </a>
 </p>
 
-👨‍💻 All of my projects are available at: <br>
+**Certifications:**  <br>
+![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Cloud Practitioner  <br>
+![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Solutions Architect – Associate <br>
+![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified DevOps Engineer – Professional <br>
+![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Advanced Networking – Specialty <br>
+
+👨‍💻 **All of my projects are available at:** <br>
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
 💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure 
