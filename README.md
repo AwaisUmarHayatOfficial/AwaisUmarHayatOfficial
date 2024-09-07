@@ -3,6 +3,8 @@
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
 <h2 align="left"> DevOps & Cloud CyberSecurity Engineer </h2>
 
+![DevOps](https://img.shields.io/badge/DevOps-4B92DB?style=flat&logo=docker&logoColor=white&labelColor=black)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
 </p>
@@ -42,7 +44,7 @@
   </a>
 </p>
 
-<h3 align="left">Ask me about:</h3>
+<h2 align="left">Ask me about:</h2>
 
 <!--💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br> -->
 
