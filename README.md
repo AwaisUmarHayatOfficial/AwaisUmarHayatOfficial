@@ -16,8 +16,8 @@ Certainly! Here’s the revised certification section with smaller AWS icons:
 
 ---
 
-💬 **Certifications:**  
-![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) AWS Certified Cloud Practitioner  
+**Certifications:**  <br>
+![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Cloud Practitioner**  
 ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Solutions Architect – Associate**  
 ![AWS Certified Developer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Developer – Associate**  
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Advanced Networking – Specialty**  
