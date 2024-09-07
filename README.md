@@ -1,22 +1,6 @@
 <h2 align="left"> Hello! 👋, I'm Awais</h2>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
-Sure! Here are the badges with icons included:
-
-Let's add appropriate icons to each badge:
-
-1. **DevOps**
-   - ![DevOps](https://img.shields.io/badge/DevOps-0C9F8C?style=flat&logo=devops&logoColor=white&labelColor=lightgreen)
-
-2. **Cloud**
-   - ![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat&logo=cloud&logoColor=white&labelColor=lightblue)
-
-3. **Cloud Security**
-   - ![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF9900?style=flat&logo=cloud&logoColor=white&labelColor=orange)
-
-4. **Cloud CyberSecurity**
-   - 
-These badges now include appropriate icons for each category.
 <h2 align="left"> DevOps & Cloud CyberSecurity Engineer </h2>
 
 <p align="left">
