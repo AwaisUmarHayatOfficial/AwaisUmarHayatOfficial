@@ -13,8 +13,6 @@
 <br>
 👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines Development.
 
-💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure 
-
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif"> 
 <p align="left"> 
   <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
@@ -45,6 +43,7 @@
   
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
+💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure 
 <h4 align="left"> Skills:</h4>
 
 - **Operating Systems:** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=red&labelColor=lightgreen) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-DBDB00?style=flat&logo=centos&logoColor=black&labelColor=lightblue) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=yellow) • ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=lightblue) <br>
