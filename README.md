@@ -9,9 +9,10 @@
 </p>
 
 **About me:**  <br>
-👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines Development. 
-
+👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines Development. <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif"> <br>
+
+---
 <p align="left"> 
   <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
@@ -38,11 +39,6 @@
   </a>
 </p>
 
-**Certifications:**  <br>
-![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Cloud Practitioner  <br>
-![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Solutions Architect – Associate <br>
-![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified DevOps Engineer – Professional <br>
-![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Advanced Networking – Specialty <br>
 👨‍💻 All of my projects are available at: <br>
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
