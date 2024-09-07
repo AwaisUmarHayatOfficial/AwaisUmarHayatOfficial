@@ -17,21 +17,11 @@ Certainly! Here’s the revised certification section with smaller AWS icons:
 ---
 
 💬 **Certifications:**  
-• ![AWS Certified Cloud Practitioner](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified Cloud Practitioner**  
-  Certification Date: 01/2021  
-
+• ![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Cloud Practitioner**  
 • ![AWS Certified Solutions Architect](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified Solutions Architect – Associate**  
-  Certification Date: 07/2021  
-
 • ![AWS Certified Developer](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified Developer – Associate**  
-  Certification Date: 02/2022  
-
 • ![AWS Certified Advanced Networking](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified Advanced Networking – Specialty**  
-  Certification Date: 06/2022  
-
 • ![AWS Certified DevOps Engineer](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified DevOps Engineer – Professional**  
-  Certification Date: 11/2022  
-
 ---
 
 The icons are now 24x24 pixels, which should be more appropriate.
