@@ -45,7 +45,7 @@
 
 💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br>
 
-💬 **Certifications:**  <br>
+💬 **Certifications:**
 --- 
 
 ![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Cloud Practitioner  <br>
