@@ -10,11 +10,11 @@
 
 **About me:**  
 <br>
-👋 Hi, I’m **Awais Umar Hayat**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of experience.
+👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** agency experience and advanced knowledge of DevOps and Cloud Computing.
 
 <!-- in DevOps and Cloud Security Engineering role. Currently, I focus on securing cloud systems and ensuring their resilience against modern threats.<br> I started my career as an Embedded DevOps Engineer by integrating DevOps practices into embedded systems, which led to a DevOps and Cloud Security Engineer role. focused on containerization, Orchestration, infrastructure automation and CI/CD pipelines. From there, I expanded my expertise as a DevOps Engineer role, specializing in infrastructure automation and CI/CD pipeline development.<br> -->
 
-💬 **Ask me about:** <br> **DevOps & Cloud Cyber Security** • **Cloud Security:**  • **AWS** (Amazon Web Services) • **Microsoft Azure**
+💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security • AWS (Amazon Web Services) • Microsoft Azure
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif">
 <p align="left"> 
