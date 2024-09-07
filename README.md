@@ -18,10 +18,10 @@ Certainly! Here’s the revised certification section with smaller AWS icons:
 
 💬 **Certifications:**  
 ![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) AWS Certified Cloud Practitioner  
-• ![AWS Certified Solutions Architect](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified Solutions Architect – Associate**  
-• ![AWS Certified Developer](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified Developer – Associate**  
-• ![AWS Certified Advanced Networking](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified Advanced Networking – Specialty**  
-• ![AWS Certified DevOps Engineer](https://img.icons8.com/ios/24/amazon-web-services.png) **AWS Certified DevOps Engineer – Professional**  
+• ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Solutions Architect – Associate**  
+• ![AWS Certified Developer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Developer – Associate**  
+• ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Advanced Networking – Specialty**  
+• ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified DevOps Engineer – Professional**  
 ---
 
 The icons are now 24x24 pixels, which should be more appropriate.
