@@ -15,8 +15,7 @@ Let's add appropriate icons to each badge:
    - ![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF9900?style=flat&logo=cloud&logoColor=white&labelColor=orange)
 
 4. **Cloud CyberSecurity**
-   - ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-CC0000?style=flat&logo=cloudflare&logoColor=white&labelColor=red)
-
+   - 
 These badges now include appropriate icons for each category.
 <h2 align="left"> DevOps & Cloud CyberSecurity Engineer </h2>
 
@@ -69,6 +68,7 @@ These badges now include appropriate icons for each category.
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Advanced Networking – Specialty <br>
 
 <h4 align="left"> Skills:</h4>
+![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-CC0000?style=flat&logo=cloudflare&logoColor=white&labelColor=red)
 
 - **Operating Systems:** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=red&labelColor=lightgreen) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-DBDB00?style=flat&logo=centos&logoColor=black&labelColor=lightblue) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=yellow) • ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=lightblue) <br>
 - **Version Control & CI/CD:** <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=orange&labelColor=white) • ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=black&labelColor=lightblue) • ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=orange&labelColor=purple) • ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=darkgreen&labelColor=lightorange) • ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=black&labelColor=white) <br>
