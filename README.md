@@ -58,7 +58,9 @@ These badges now include appropriate icons for each category.
 
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
-💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br>
+<h3 align="left">Ask me about:</h3>
+
+<!--💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br> -->
 
 <h4 align="left">💬Certifications:</h4>
 
