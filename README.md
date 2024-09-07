@@ -7,10 +7,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
 </p>
-<p align="left"> 
-  <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
-    <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
-  </a> </p>
 
 **About me:**  <br>
 👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines Development. 
@@ -24,6 +20,11 @@
 ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Solutions Architect – Associate**  
 ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/..AWS.png) **AWS Certified DevOps Engineer – Professional**  
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Advanced Networking – Specialty**  
+
+<p align="left"> 
+  <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
+    <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
+  </a> </p>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="blank">
