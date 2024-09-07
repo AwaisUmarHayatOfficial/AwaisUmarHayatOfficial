@@ -12,10 +12,7 @@
 **About me:**  
 <br>
 👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines Development.
-Certainly! Here’s the revised certification section with smaller AWS icons:
-
 ---
-
 **Certifications:**  <br>
 ![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Cloud Practitioner**  
 ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Solutions Architect – Associate**  
