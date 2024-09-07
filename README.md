@@ -1,6 +1,23 @@
 <h2 align="left"> Hello! 👋, I'm Awais</h2>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
+<p align="left"> 
+  <a href="https://www.example.com/devops" target="blank">
+    <img src="https://img.shields.io/badge/-DevOps-blue?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+  </a>
+  <a href="https://www.example.com/cloud-cyber-security" target="blank">
+    <img src="https://img.shields.io/badge/-Cloud%20Cyber%20Security-darkred?style=for-the-badge&logo=security&logoColor=white" alt="Cloud Cyber Security" />
+  </a>
+  <a href="https://www.example.com/cloud-security" target="blank">
+    <img src="https://img.shields.io/badge/-Cloud%20Security-green?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Security" />
+  </a>
+  <a href="https://www.example.com/aws" target="blank">
+    <img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.example.com/azure" target="blank">
+    <img src="https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  </a>
+</p>
 
 <h2 align="left"> DevOps & Cloud CyberSecurity Engineer </h2>
 
