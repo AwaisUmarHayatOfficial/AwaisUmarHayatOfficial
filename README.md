@@ -13,6 +13,23 @@
 <br>
 👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines Development.
 
+💬 **Certifications:**  
+• ![AWS Certified Cloud Practitioner](https://img.icons8.com/color/48/amazon-web-services.png) **AWS Certified Cloud Practitioner**  
+  Certification Date: 01/2021  
+
+• ![AWS Certified Solutions Architect](https://img.icons8.com/color/48/amazon-web-services.png) **AWS Certified Solutions Architect – Associate**  
+  Certification Date: 07/2021  
+
+• ![AWS Certified Developer](https://img.icons8.com/color/48/amazon-web-services.png) **AWS Certified Developer – Associate**  
+  Certification Date: 02/2022  
+
+• ![AWS Certified Advanced Networking](https://img.icons8.com/color/48/amazon-web-services.png) **AWS Certified Advanced Networking – Specialty**  
+  Certification Date: 06/2022  
+
+• ![AWS Certified DevOps Engineer](https://img.icons8.com/color/48/amazon-web-services.png) **AWS Certified DevOps Engineer – Professional**  
+  Certification Date: 11/2022  
+
+---
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif"> 
 <p align="left"> 
   <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
