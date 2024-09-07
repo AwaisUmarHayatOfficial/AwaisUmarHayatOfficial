@@ -45,7 +45,7 @@
 
 💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br>
 
-💬 <h4 align="left"> Certifications:</h4>
+<h4 align="left">💬Certifications:</h4>
 
 --- 
 
