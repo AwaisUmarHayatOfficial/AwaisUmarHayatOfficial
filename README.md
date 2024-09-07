@@ -32,6 +32,9 @@ These badges now include appropriate icons for each category.
   <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
   </a> </p>
+💬 **All of my projects are available at:** <br>
+
+  [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="blank">
@@ -53,10 +56,6 @@ These badges now include appropriate icons for each category.
     <img src="https://img.shields.io/badge/-AwaisUmarHayat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AwaisUmarHayat" />
   </a>
 </p>
-
-💬 **All of my projects are available at:** <br>
-
-  [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
 <h3 align="left">Ask me about:</h3>
 
