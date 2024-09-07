@@ -11,8 +11,7 @@
 
 **About me:**  
 <br>
-👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines..
-<!-- in DevOps and Cloud Security Engineering role. Currently, I focus on securing cloud systems and ensuring their resilience against modern threats.<br> I started my career as an Embedded DevOps Engineer by integrating DevOps practices into embedded systems, which led to a DevOps and Cloud Security Engineer role. focused on containerization, Orchestration, infrastructure automation and CI/CD pipelines. From there, I expanded my expertise as a DevOps Engineer role, specializing in infrastructure automation and CI/CD pipeline development.<br> -->
+👋 Hi, I’m **Awais**, a Senior DevOps & Cloud CyberSecurity Engineer with an over **3+ years** of expertise in DevOps and Cloud Computing, integrating containerization, Orchestration, infrastructure automation and CI/CD pipelines Development.
 
 💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure 
 
@@ -46,7 +45,7 @@
   
   [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
-<h2 align="left"> Skills:</h2>
+<h4 align="left"> Skills:</h4>
 
 - **Operating Systems:** <br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=red&labelColor=lightgreen) • ![CentOS 7](https://img.shields.io/badge/CentOS_7-DBDB00?style=flat&logo=centos&logoColor=black&labelColor=lightblue) • ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=yellow) • ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=lightblue) <br>
 - **Version Control & CI/CD:** <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=orange&labelColor=white) • ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=black&labelColor=lightblue) • ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=orange&labelColor=purple) • ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=darkgreen&labelColor=lightorange) • ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=black&labelColor=white) <br>
