@@ -13,8 +13,8 @@
 
 ---
 **Certifications:**  <br>
-![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Cloud Practitioner**  
-![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Solutions Architect – Associate**  
+![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) **AWS Certified Cloud Practitioner**  
+![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) **AWS Certified Solutions Architect – Associate**  
 ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/..AWS.png) **AWS Certified DevOps Engineer – Professional**  
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Advanced Networking – Specialty**  
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif"> <br>
