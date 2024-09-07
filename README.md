@@ -1,7 +1,7 @@
 <h2 align="left"> Hello! 👋, I'm Awais</h2>
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
-Zaroor! Yeh raha aapke liye DevOps, Cloud, Cloud Security, aur Cloud CyberSecurity ke badges:
+Sure! Here are the badges with icons included:
 
 1. **DevOps**
    - ![DevOps](https://img.shields.io/badge/DevOps-0C9F8C?style=flat&logo=devops&logoColor=white&labelColor=lightgreen)
@@ -15,7 +15,8 @@ Zaroor! Yeh raha aapke liye DevOps, Cloud, Cloud Security, aur Cloud CyberSecuri
 4. **Cloud CyberSecurity**
    - ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-CC0000?style=flat&logo=cloud&logoColor=white&labelColor=red)
 
-Aap in badges ko use karke apne profile ya CV ko aur bhi attractive bana sakte hain!
+Aap yeh badges apne profile aur CV me use kar sakte hain!
+
 <h2 align="left"> DevOps & Cloud CyberSecurity Engineer </h2>
 
 <p align="left">
