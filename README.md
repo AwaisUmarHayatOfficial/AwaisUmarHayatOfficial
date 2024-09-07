@@ -12,14 +12,14 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif"> <br>
 
 ---
+💬 **All of my projects are available at:** <br>
+
+  [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
+
 <p align="left"> 
   <a href="https://linkedin.com/in/AwaisUmarHayat" target="blank">
     <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
   </a> </p>
-
-💬 **All of my projects are available at:** <br>
-
-  [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://github.com/AwaisUmarHayatOfficial?tab=projects)
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="blank">
