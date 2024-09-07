@@ -22,7 +22,6 @@ Certainly! Here’s the revised certification section with smaller AWS icons:
 ![AWS Certified Developer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Developer – Associate**  
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.AWS.png) **AWS Certified Advanced Networking – Specialty**  
 ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/..AWS.png) **AWS Certified DevOps Engineer – Professional**  
----
 
 The icons are now 24x24 pixels, which should be more appropriate.
 
