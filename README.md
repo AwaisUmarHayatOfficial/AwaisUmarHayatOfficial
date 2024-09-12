@@ -4,8 +4,12 @@
 <!-- <h2 align="left"> DevOps & Cloud Cyber Security Engineer </h2> -->
 
 <div align="center">
-  ![DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-006400?style=for-the-badge&logoColor=black)
+  <img src="https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-006400?style=for-the-badge&logoColor=black" alt="DevOps & Cloud Cyber Security Engineer" />
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
