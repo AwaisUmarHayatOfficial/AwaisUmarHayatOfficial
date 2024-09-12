@@ -98,6 +98,25 @@
 - 🐳 **Containerization & Orchestration:** Mastering Docker and Kubernetes to develop and manage containerized applications and microservices.  -->
 
 
+![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-lightgreen?style=for-the-badge)
+
+![DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-lightgreen?style=for-the-badge)
+
+![Ask me about](https://img.shields.io/badge/Ask_me_about-lightgreen?style=for-the-badge)
+
+![Certifications](https://img.shields.io/badge/Certifications-lightgreen?style=for-the-badge)
+
+![Skills](https://img.shields.io/badge/Skills-lightgreen?style=for-the-badge)
+
+![Projects](https://img.shields.io/badge/Projects-lightgreen?style=for-the-badge)
+
+![How to reach me](https://img.shields.io/badge/How_to_reach_me-lightgreen?style=for-the-badge)
+
+![Languages and Tools](https://img.shields.io/badge/Languages_and_Tools-lightgreen?style=for-the-badge)
+
+![Project Experience](https://img.shields.io/badge/Project_Experience-lightgreen?style=for-the-badge)
+
+
 
 ---
 
