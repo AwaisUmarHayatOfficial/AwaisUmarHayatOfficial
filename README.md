@@ -1,5 +1,6 @@
-![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-lightgreen?style=for-the-badge) <br>
-<h2 align="left"> Hello! 👋, I'm Awais</h2>
+![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-006400?style=for-the-badge&logoColor=black) <br>
+
+<!-- <h2 align="left"> Hello! 👋, I'm Awais</h2> -->
 
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg) <br>
 ![DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-lightgreen?style=for-the-badge) <br>
@@ -97,7 +98,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>  
 ---
 
-![💬 Hello! 👋, I'm Awais](https://img.shields.io/badge/💬_Hello!_👋,_I'm_Awais-006400?style=for-the-badge&logoColor=black)
 
 ![💬 DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/💬_DevOps_%26_Cloud_Cyber_Security_Engineer-006400?style=for-the-badge&logoColor=black)
 
