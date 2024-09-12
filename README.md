@@ -47,7 +47,7 @@
 <!-- <h2 align="left">Ask me about:</h2> -->
 <!-- ### 💬 **Projects:**<br> -->
 
-![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-006400?style=for-the-badge&logoColor=black)
+![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-006400?style=for-the-badge&logoColor=black) <br>
 **All of my projects are available at:** <br>
 [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
