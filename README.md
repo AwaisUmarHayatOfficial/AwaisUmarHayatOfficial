@@ -50,6 +50,12 @@
 All of my projects are available at: <br>
 [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
+![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-006400?style=for-the-badge&logoColor=black) <br>
+All of my projects are available at: <br>
+[![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)  
+[Click Here](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
+
+
 <!--💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br> -->
 ![💬 Ask me about:](https://img.shields.io/badge/💬_Ask_me_about:-006400?style=for-the-badge&logoColor=black) <br>
 <!-- ![Certifications](https://img.shields.io/badge/Certifications-lightgreen?style=for-the-badge) <br> -->
@@ -94,6 +100,7 @@ All of my projects are available at: <br>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en" alt="jaiswaladi246" /></p>   -->
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>  
+
 ---
 
 
