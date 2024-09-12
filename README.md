@@ -2,7 +2,6 @@
 <!-- <h2 align="left"> Hello! 👋, I'm Awais</h2> -->
 ![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg) <br>
 <!-- <h2 align="left"> DevOps & Cloud Cyber Security Engineer </h2> -->
-
 <div align="center">
   <img src="https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-006400?style=for-the-badge&logoColor=black" alt="DevOps & Cloud Cyber Security Engineer" />
 </div>
@@ -48,7 +47,7 @@
 <!-- ### 💬 **Projects:**<br> -->
 
 ![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-006400?style=for-the-badge&logoColor=black) <br>
-**All of my projects are available at:** <br>
+All of my projects are available at: <br>
 [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
 <!--💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br> -->
