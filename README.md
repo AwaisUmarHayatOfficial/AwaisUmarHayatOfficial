@@ -97,20 +97,21 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>  
 ---
 
-![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-9370DB?style=for-the-badge&logoColor=black)
+![💬 Hello! 👋, I'm Awais](https://img.shields.io/badge/💬_Hello!_👋,_I'm_Awais-006400?style=for-the-badge&logoColor=black)
 
-![DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-9370DB?style=for-the-badge&logoColor=black)
+![💬 DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/💬_DevOps_%26_Cloud_Cyber_Security_Engineer-006400?style=for-the-badge&logoColor=black)
 
-![💬 Ask me about](https://img.shields.io/badge/💬_Ask_me_about-9370DB?style=for-the-badge&logoColor=black)
+![💬 Ask me about](https://img.shields.io/badge/💬_Ask_me_about-006400?style=for-the-badge&logoColor=black)
 
-![💬 Certifications](https://img.shields.io/badge/💬_Certifications-9370DB?style=for-the-badge&logoColor=black)
+![💬 Certifications](https://img.shields.io/badge/💬_Certifications-006400?style=for-the-badge&logoColor=black)
 
-![💬 Skills](https://img.shields.io/badge/💬_Skills-9370DB?style=for-the-badge&logoColor=black)
+![💬 Skills](https://img.shields.io/badge/💬_Skills-006400?style=for-the-badge&logoColor=black)
 
-![💬 Projects](https://img.shields.io/badge/💬_Projects-9370DB?style=for-the-badge&logoColor=black)
+![💬 Projects](https://img.shields.io/badge/💬_Projects-006400?style=for-the-badge&logoColor=black)
 
-![💬 How to reach me](https://img.shields.io/badge/💬_How_to_reach_me-9370DB?style=for-the-badge&logoColor=black)
+![💬 How to reach me](https://img.shields.io/badge/💬_How_to_reach_me-006400?style=for-the-badge&logoColor=black)
 
-![💬 Languages and Tools](https://img.shields.io/badge/💬_Languages_and_Tools-9370DB?style=for-the-badge&logoColor=black)
+![💬 Languages and Tools](https://img.shields.io/badge/💬_Languages_and_Tools-006400?style=for-the-badge&logoColor=black)
 
-![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-9370DB?style=for-the-badge&logoColor=black)
+![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-006400?style=for-the-badge&logoColor=black)
+
