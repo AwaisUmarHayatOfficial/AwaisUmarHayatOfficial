@@ -97,3 +97,20 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>  
 ---
 
+![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-ADD8E6?style=for-the-badge&logoColor=black)
+
+![DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-ADD8E6?style=for-the-badge&logoColor=black)
+
+![Ask me about](https://img.shields.io/badge/Ask_me_about-ADD8E6?style=for-the-badge&logoColor=black)
+
+![Certifications](https://img.shields.io/badge/Certifications-ADD8E6?style=for-the-badge&logoColor=black)
+
+![Skills](https://img.shields.io/badge/Skills-ADD8E6?style=for-the-badge&logoColor=black)
+
+![Projects](https://img.shields.io/badge/Projects-ADD8E6?style=for-the-badge&logoColor=black)
+
+![How to reach me](https://img.shields.io/badge/How_to_reach_me-ADD8E6?style=for-the-badge&logoColor=black)
+
+![Languages and Tools](https://img.shields.io/badge/Languages_and_Tools-ADD8E6?style=for-the-badge&logoColor=black)
+
+![Project Experience](https://img.shields.io/badge/Project_Experience-ADD8E6?style=for-the-badge&logoColor=black)
