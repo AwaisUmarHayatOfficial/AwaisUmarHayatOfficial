@@ -45,6 +45,11 @@
 </p>
 <!-- ![Ask me about](https://img.shields.io/badge/Ask_me_about-lightgreen?style=for-the-badge) <br> -->
 <!-- <h2 align="left">Ask me about:</h2> -->
+<!-- ### 💬 **Projects:**<br> -->
+
+![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-006400?style=for-the-badge&logoColor=black)
+**All of my projects are available at:** <br>
+[![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
 <!--💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br> -->
 ![💬 Ask me about:](https://img.shields.io/badge/💬_Ask_me_about:-006400?style=for-the-badge&logoColor=black) <br>
@@ -56,7 +61,7 @@
 ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Solutions Architect – Associate <br>
 ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified DevOps Engineer – Professional <br>
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Advanced Networking – Specialty <br>
-![Skills:](https://img.shields.io/badge/💬_Skills:-006400?style=for-the-badge&logoColor=black) <br>
+![Skills:](https://img.shields.io/badge/Skills:-006400?style=for-the-badge&logoColor=black) <br>
 <!-- <h3 align="left">Skills:</h3> -->
 
 ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue) • ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)
@@ -69,11 +74,6 @@
 - Scripting & Programming Languages: <br> ![Python](https://img.shields.io/badge/Python-FC6D26?style=flat&logo=python&logoColor=black&labelColor=lightyellow) • ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white&labelColor=lightgreen) • ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=lightgray) • ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=grey&labelColor=lightgreen) • ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=black&labelColor=lightblue) <br>
 - Web & Database Management: <br> ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
 - Monitoring Tools: <br> ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
-
-![💬 Project Experience](https://img.shields.io/badge/💬_Project_Experience-006400?style=for-the-badge&logoColor=black)
-<!-- ### 💬 **Projects:**<br> -->
-**All of my projects are available at:** <br>
-[![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
 ![💬 How to reach me](https://img.shields.io/badge/💬_How_to_reach_me-006400?style=for-the-badge&logoColor=black) <br>
 <!-- ### 💬 **How to reach me:** <br> -->
