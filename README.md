@@ -47,17 +47,17 @@
 <!-- <h2 align="left">Ask me about:</h2> -->
 
 <!--💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br> -->
-![💬 Ask me about](https://img.shields.io/badge/💬_Ask_me_about-006400?style=for-the-badge&logoColor=black) <br>
+![💬 Ask me about:](https://img.shields.io/badge/💬_Ask_me_about:-006400?style=for-the-badge&logoColor=black) <br>
 <!-- ![Certifications](https://img.shields.io/badge/Certifications-lightgreen?style=for-the-badge) <br> -->
 
-<!-- <h3 align="left">💬 Certifications:</h3> -->
+<!-- <h3 align="left">Certifications:</h3> -->
 ![💬 Certifications](https://img.shields.io/badge/💬_Certifications-006400?style=for-the-badge&logoColor=black) <br>
 ![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Cloud Practitioner  <br>
 ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Solutions Architect – Associate <br>
 ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified DevOps Engineer – Professional <br>
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Advanced Networking – Specialty <br>
-![💬 Skills](https://img.shields.io/badge/💬_Skills-006400?style=for-the-badge&logoColor=black) <br>
-<h3 align="left">💬 Skills:</h3>
+![Skills](https://img.shields.io/badge/💬_Skills-006400?style=for-the-badge&logoColor=black) <br>
+<!-- <h3 align="left">Skills:</h3> -->
 
 ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue) • ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)
 • ![SysOps Linux Administrator](https://img.shields.io/badge/SysOps_Linux_Administrator-4CAF50?style=flat&logo=linux&logoColor=white&labelColor=lblue) <br>
