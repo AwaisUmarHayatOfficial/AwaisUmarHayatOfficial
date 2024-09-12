@@ -62,8 +62,8 @@
 - Web & Database Management: <br> ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
 - Monitoring Tools: <br> ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
 
-### 💬 **All of my projects are available at:** <br>
-
+### 💬 **Projects:**  <br>
+All of my projects are available at:
 [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
 ### **How to reach me:** <br>
