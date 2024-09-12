@@ -1,6 +1,8 @@
+![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-lightgreen?style=for-the-badge) <br>
 <h2 align="left"> Hello! 👋, I'm Awais</h2>
 
-![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg)
+![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg) <br>
+![DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-lightgreen?style=for-the-badge) <br>
 <h2 align="left"> DevOps & Cloud Cyber Security Engineer </h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
@@ -38,9 +40,12 @@
   </a>
 </p>
 
+![Ask me about](https://img.shields.io/badge/Ask_me_about-lightgreen?style=for-the-badge) <br>
 <h2 align="left">Ask me about:</h2>
 
 <!--💬 **Ask me about:** <br> • DevOps & Cloud Cyber Security • Cloud Security <br> • AWS (Amazon Web Services) • Microsoft Azure <br> -->
+
+![Certifications](https://img.shields.io/badge/Certifications-lightgreen?style=for-the-badge) <br>
 
 <h3 align="left">💬 Certifications:</h3>
 
@@ -48,7 +53,7 @@
 ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Solutions Architect – Associate <br>
 ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified DevOps Engineer – Professional <br>
 ![AWS Certified Advanced Networking](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Advanced Networking – Specialty <br>
-
+![Skills](https://img.shields.io/badge/Skills-lightgreen?style=for-the-badge) <br>
 <h3 align="left">💬 Skills:</h3>
 
 ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue) • ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)
@@ -62,11 +67,14 @@
 - Web & Database Management: <br> ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
 - Monitoring Tools: <br> ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
 
+![Projects](https://img.shields.io/badge/Projects-lightgreen?style=for-the-badge) <br>
+![Project Experience](https://img.shields.io/badge/Project_Experience-lightgreen?style=for-the-badge) <br>
+
 ### 💬 **Projects:**<br>
 **All of my projects are available at:** <br>
 [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
-
+![How to reach me](https://img.shields.io/badge/How_to_reach_me-lightgreen?style=for-the-badge) <br>
 ### 💬 **How to reach me:** <br>
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png' alt='GitHub' height='40'>](https://github.com/AwaisUmarHayatOfficial)
@@ -75,6 +83,8 @@
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png' alt='WhatsApp' height='40'>](https://wa.me/923099610688)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png' alt='Twitter' height='40'>](https://x.com/awaisumarhayat)
+
+![Languages and Tools](https://img.shields.io/badge/Languages_and_Tools-lightgreen?style=for-the-badge) <br>
 
 <h3 align="left"> 💬 Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
@@ -85,38 +95,5 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en" alt="jaiswaladi246" /></p>   -->
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>  
-
-<!--                      -----------------------------------------------------------------------------------------            -->
-
-
-<!--
-🔧 **What I Do:** I focus on enhancing development and operations through automation and efficient system design. My expertise includes:
-
-- 🚀 **CI/CD Pipelines:** Designing and implementing robust continuous integration and continuous deployment workflows to accelerate development cycles and boost productivity.
-- 🛠️ **Infrastructure as Code (IaC):** Using tools like Terraform, Ansible, and similar tools to automate and manage infrastructures.
-- ☁️ **Cloud Platforms:** Skilled in AWS, Azure, and Google Cloud, delivering scalable and reliable cloud solutions architecture.
-- 🐳 **Containerization & Orchestration:** Mastering Docker and Kubernetes to develop and manage containerized applications and microservices.  -->
-
-
-![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-lightgreen?style=for-the-badge)
-
-![DevOps & Cloud Cyber Security Engineer](https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-lightgreen?style=for-the-badge)
-
-![Ask me about](https://img.shields.io/badge/Ask_me_about-lightgreen?style=for-the-badge)
-
-![Certifications](https://img.shields.io/badge/Certifications-lightgreen?style=for-the-badge)
-
-![Skills](https://img.shields.io/badge/Skills-lightgreen?style=for-the-badge)
-
-![Projects](https://img.shields.io/badge/Projects-lightgreen?style=for-the-badge)
-
-![How to reach me](https://img.shields.io/badge/How_to_reach_me-lightgreen?style=for-the-badge)
-
-![Languages and Tools](https://img.shields.io/badge/Languages_and_Tools-lightgreen?style=for-the-badge)
-
-![Project Experience](https://img.shields.io/badge/Project_Experience-lightgreen?style=for-the-badge)
-
-
-
 ---
 
