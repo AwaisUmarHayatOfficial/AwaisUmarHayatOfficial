@@ -63,7 +63,7 @@
 - Monitoring Tools: <br> ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
 
 ### 💬 **Projects:**  <br>
-All of my projects are available at:
+All of my projects are available at: <br>
 [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
 ### **How to reach me:** <br>
