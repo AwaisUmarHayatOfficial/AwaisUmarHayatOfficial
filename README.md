@@ -6,7 +6,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisumarhayatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="awaisumarhayatofficial" />
 </p>
-
 ---
 ![💬 About me](https://img.shields.io/badge/💬_About_me-006400?style=for-the-badge&logoColor=black) <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Developer.gif"> <br>
