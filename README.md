@@ -66,6 +66,7 @@
 **All of my projects are available at:** <br>
 [![Projects](https://img.shields.io/badge/Projects-Available-brightgreen)](https://www.linkedin.com/in/awaisumarhayat/details/projects/)
 
+### <span style="color: #3CB043;">💬 **How to reach me:**</span> <br>
 ### 💬 **How to reach me:** <br>
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/awaisumarhayat/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Github.png' alt='GitHub' height='40'>](https://github.com/AwaisUmarHayatOfficial)
