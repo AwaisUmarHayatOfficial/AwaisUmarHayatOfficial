@@ -8,7 +8,7 @@ pipeline {
         // DATE = "${new Date().format('dd-MM-yyyy')}"
         // TIME = "${new Date().format('HH-mm-ss')}" // Timestamp for unique filenames
         DATE = sh(script: "date +'%d-%m-%Y'", returnStdout: true).trim()
-        TIME = sh(script: "date +'%H-%M-%S'", returnStdout: true).trim()
+        TIME = sh(script: "date +'%H:%Mm:%Ss'", returnStdout: true).trim()
       
         BACKUP_DIR = "${BASE_BACKUP_DIR}/${DATE}"
     }
@@ -54,22 +54,7 @@ pipeline {
                             """
                         }
                     }
-                }
-
-                stage('Cleanup SQL Files') {
-                    steps {
-                        script {
-                            echo "Cleaning up original SQL files..."
-                            sh """
-                           // rm -rf "${BACKUP_DIR}/vendi_main_tool.sql"
-                          // rm -rf "${BACKUP_DIR}/vendi_admin_tool.sql"
-                            echo "Original SQL files deleted."
-                            """
-                        }
-                    }
-                }
-            
-        
+                }        
 
         stage('Cleanup Old Backups') {
             steps {
