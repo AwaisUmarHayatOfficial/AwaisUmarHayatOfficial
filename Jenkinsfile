@@ -14,7 +14,7 @@ pipeline {
     }
 
     stages {
-        stage('Create Backup Directory') {
+        stage('Verify Backup Directory') {
             steps {
                 script {
                     if (!fileExists(BACKUP_DIR)) {
@@ -27,7 +27,7 @@ pipeline {
             }
         }
 
-        stage('Perform Backup') {
+        stage('DataBase Backup Processing') {
             steps {
                 script {
                     try {
@@ -43,7 +43,7 @@ pipeline {
                 }
             }
         }
-        stage('Compress SQL Files') {
+        stage('Compress DataBase Files') {
                     steps {
                         script {
                             echo "Compressing SQL files..."
@@ -56,7 +56,7 @@ pipeline {
                     }
                 }        
 
-        stage('Cleanup Old Backups') {
+        stage('Delete 7 Days Old Backups') {
             steps {
                 script {
                     echo "Cleaning up old backups..."
