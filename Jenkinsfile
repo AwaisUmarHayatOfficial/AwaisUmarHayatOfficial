@@ -5,8 +5,11 @@ pipeline {
         DB_USER = 'root'
         DB_PASSWORD = 'Mqm9kn-Ivbpg*@Pq'  // DB Password
         BASE_BACKUP_DIR = "/home/vroot/DataBaseBackup"
-        DATE = "${new Date().format('dd-MM-yyyy')}"
-        TIME = "${new Date().format('HH-mm-ss')}" // Timestamp for unique filenames
+        // DATE = "${new Date().format('dd-MM-yyyy')}"
+        // TIME = "${new Date().format('HH-mm-ss')}" // Timestamp for unique filenames
+        DATE = sh(script: "date +'%d-%m-%Y'", returnStdout: true).trim()
+        TIME = sh(script: "date +'%H-%M-%S'", returnStdout: true).trim()
+      
         BACKUP_DIR = "${BASE_BACKUP_DIR}/${DATE}"
     }
 
