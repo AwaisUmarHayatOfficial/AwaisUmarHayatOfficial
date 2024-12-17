@@ -77,6 +77,7 @@ All of my projects are available at:
 - Scripting & Programming Languages: <br> ![Python](https://img.shields.io/badge/Python-FC6D26?style=flat&logo=python&logoColor=black&labelColor=lightyellow) • ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white&labelColor=lightgreen) • ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=lightgray) • ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=grey&labelColor=lightgreen) • ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=black&labelColor=lightblue) <br>
 - Web & Database Management: <br> ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow) • ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue) • ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray) • ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
 - Monitoring Tools: <br> ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue) • ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple) <br>
+<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/DEV.gif"> <br>
 
 ![💬 How to reach me:](https://img.shields.io/badge/💬_How_to_reach_me:-006400?style=for-the-badge&logoColor=black) <br>
 <!-- ### 💬 **How to reach me:** <br> -->
@@ -87,7 +88,6 @@ All of my projects are available at:
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png' alt='WhatsApp' height='40'>](https://wa.me/923099610688)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png' alt='Twitter' height='40'>](https://x.com/awaisumarhayat)
-<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/DEV.gif"> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
 
 ![💬 Languages and Tools:](https://img.shields.io/badge/💬_Languages_and_Tools:-006400?style=for-the-badge&logoColor=black) <br>
