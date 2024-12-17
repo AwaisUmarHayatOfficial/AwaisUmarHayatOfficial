@@ -56,6 +56,7 @@ All of my projects are available at:
 
 ![💬 Ask me about:](https://img.shields.io/badge/💬_Ask_me_about:-006400?style=for-the-badge&logoColor=black) <br>
 <!-- ![Certifications](https://img.shields.io/badge/Certifications-lightgreen?style=for-the-badge) <br> -->
+<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Devt.gif"> <br>
 
 <!-- <h3 align="left">Certifications:</h3> -->
 ![Certifications:](https://img.shields.io/badge/Certifications:-006400?style=for-the-badge&logoColor=black) <br>
@@ -66,7 +67,6 @@ All of my projects are available at:
 
 ![Skills:](https://img.shields.io/badge/Skills:-006400?style=for-the-badge&logoColor=black) <br>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Devt.gif"> <br>
 <!-- <h3 align="left">Skills:</h3> -->
 
 ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue) • ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue) • ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)
