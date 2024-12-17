@@ -97,6 +97,9 @@ All of my projects are available at:
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
+<br> <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/DEV.gif">
 
-<br>
----
+
+
+
+
