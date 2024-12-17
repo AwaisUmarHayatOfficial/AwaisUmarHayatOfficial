@@ -87,9 +87,8 @@ All of my projects are available at:
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Whatsapp.png' alt='WhatsApp' height='40'>](https://wa.me/923099610688)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/awaisumarhayatofficial/)
 [<img src='https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/TwitterX.png' alt='Twitter' height='40'>](https://x.com/awaisumarhayat)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
 <img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/DEV.gif"> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
 
 ![💬 Languages and Tools:](https://img.shields.io/badge/💬_Languages_and_Tools:-006400?style=for-the-badge&logoColor=black) <br>
 <!-- <h3 align="left"> 💬 Languages and Tools:</h3> -->
