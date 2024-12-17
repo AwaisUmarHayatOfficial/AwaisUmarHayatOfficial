@@ -92,6 +92,7 @@ All of my projects are available at:
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
 <br>
+
 ![💬 Languages and Tools:](https://img.shields.io/badge/💬_Languages_and_Tools:-006400?style=for-the-badge&logoColor=black) <br>
 <br>
 <!-- <h3 align="left"> 💬 Languages and Tools:</h3> -->
