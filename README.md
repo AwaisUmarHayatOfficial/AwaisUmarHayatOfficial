@@ -56,10 +56,9 @@ All of my projects are available at:
 
 ![💬 Ask me about:](https://img.shields.io/badge/💬_Ask_me_about:-006400?style=for-the-badge&logoColor=black) <br>
 <!-- ![Certifications](https://img.shields.io/badge/Certifications-lightgreen?style=for-the-badge) <br> -->
-<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Devt.gif"> <br>
-
 <!-- <h3 align="left">Certifications:</h3> -->
 ![Certifications:](https://img.shields.io/badge/Certifications:-006400?style=for-the-badge&logoColor=black) <br>
+<img align="right" alt="Coding" width="400" src="https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Devt.gif"> <br>
 - ![AWS Certified Cloud Practitioner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Cloud Practitioner  <br>
 - ![AWS Certified Solutions Architect](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified Solutions Architect – Associate <br>
 - ![AWS Certified DevOps Engineer](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/.aws.png) AWS Certified DevOps Engineer – Professional <br>
