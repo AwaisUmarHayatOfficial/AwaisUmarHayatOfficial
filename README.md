@@ -1,6 +1,6 @@
 ![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-006400?style=for-the-badge&logoColor=black) <br>
 <!-- <h2 align="left"> Hello! 👋, I'm Awais</h2> -->
-![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.jpg) <br>
+![Banner](https://github.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/blob/main/Banner.gif) <br>
 <!-- <h2 align="left"> DevOps & Cloud Cyber Security Engineer </h2> -->
 <div align="center">
   <img src="https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-006400?style=for-the-badge&logoColor=black" alt="DevOps & Cloud Cyber Security Engineer" />
