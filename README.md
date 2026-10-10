@@ -75,6 +75,8 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> 
 <br>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
+
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications">
 
 - ![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Cloud Practitioner*
@@ -103,9 +105,6 @@
 - ***Monitoring Tools:***  <br>
 ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)
 <br>
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
-
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="GitHub Activity">
 
 <p align="center">
