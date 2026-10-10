@@ -101,7 +101,6 @@
 ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray)  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow)  ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue)  ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
 - ***Monitoring Tools:***  <br>
 ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)
-<br>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="GitHub Activity">
 
 <p align="center">
