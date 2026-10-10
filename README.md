@@ -72,7 +72,6 @@
 *A complete portfolio of my projects is available here:  
 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)***
 
-<br>
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> 
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications">
