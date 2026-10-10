@@ -89,9 +89,9 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=darkblue&labelColor=orange)  ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=black&labelColor=lightgreen)  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=blue&labelColor=lightgreen)  ![Chef](https://img.shields.io/badge/Chef-557C94?style=flat&logo=chef&logoColor=black&labelColor=lightblue) <br>
 ***Scripting & Programming Languages:*** <br> 
 ![Python](https://img.shields.io/badge/Python-FC6D26?style=flat&logo=python&logoColor=black&labelColor=lightyellow)  ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white&labelColor=lightgreen)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=lightgray)  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=grey&labelColor=lightgreen)  ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=black&labelColor=lightblue) <br>
-**Web & Database Management:**  <br>
+***Web & Database Management:***  <br>
 ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray)  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow)  ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue)  ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
-**Monitoring Tools:**  <br>
+***Monitoring Tools:***  <br>
 ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)
 <br>
 
