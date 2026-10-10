@@ -82,13 +82,10 @@ A complete portfolio of my projects is available here:
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> 
 <!-- ![💬 Ask me about:](https://img.shields.io/badge/💬_Ask_me_about:-006400?style=for-the-badge&logoColor=black) <br>  -->
  <br>
-
-<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications">  -->
-<span style="background-color: #2D4A3E; color: #B5C99A; padding: 6px 12px; border-radius: 3px; font-weight: bold; font-family: sans-serif; display: inline-block;">
-  💬 Certifications
-</span>
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications">
 
 <!-- ![Certifications:](https://img.shields.io/badge/Certifications:-006400?style=for-the-badge&logoColor=black) <br> -->
+
 - ![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) AWS Certified Cloud Practitioner  <br>
 - ![AWS Certified Solutions Architect](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) AWS Certified Solutions Architect – Associate <br>
 - ![AWS Certified DevOps Engineer](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) AWS Certified DevOps Engineer – Professional <br>
