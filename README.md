@@ -1,5 +1,3 @@
-![Hello! 👋, I'm Awais](https://img.shields.io/badge/Hello!_👋,_I'm_Awais-006400?style=for-the-badge&logoColor=black) <br>
-
 ![Banner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Banner.gif)
 
 <div align="center">
