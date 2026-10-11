@@ -94,7 +94,7 @@
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills">
 
 ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue)  ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)  ![SysOps Linux Administrator](https://img.shields.io/badge/SysOps_Linux_Administrator-4CAF50?style=flat&logo=linux&logoColor=white&labelColor=lblue)
-
+>
 - ***Operating Systems:***  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=red&labelColor=lightgreen)  ![CentOS 7](https://img.shields.io/badge/CentOS_7-DBDB00?style=flat&logo=centos&logoColor=black&labelColor=lightblue)  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=yellow)  ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=lightblue) <br>
 - ***Version Control & CI/CD Pipelines:***  
