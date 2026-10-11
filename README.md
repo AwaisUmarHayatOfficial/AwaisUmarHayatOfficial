@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience">
 
 > *A complete portfolio of my projects is available here:  
-👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)***
+👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)*** <br>
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif"> <br>
 
