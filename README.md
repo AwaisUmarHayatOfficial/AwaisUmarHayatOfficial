@@ -31,9 +31,8 @@
 
 > ***Let’s Connect:** Whether you need to modernize your infrastructure, implement DevSecOps best practices, or enhance your organization's cyber resilience, feel free to reach out. Let’s build secure, scalable cloud environments together.*
 
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awaisumarhayat/)
 > <a href="https://www.linkedin.com/in/awaisumarhayat/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="15" alt="LinkedIn">
 </a>
 
 <img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Core Value I Deliver">
