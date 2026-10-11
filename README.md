@@ -37,13 +37,13 @@
 
 <img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Core Value I Deliver">
 
-> 🔹 ***DevSecOps Integration:** Security-first cloud automation that protects your data without slowing down release cycles.*
-> 🔹 ***Accelerated Deployment:** Automated, reliable CI/CD pipelines that let you ship features faster and with zero downtime.*
-> 🔹 ***Scalable Infrastructure:** Resilient, scalable container architectures built on Kubernetes and Docker.*
-> 🔹 ***Orchestration & Containerization:** End-to-end Kubernetes and Docker management for seamless scalability.*
-> 🔹 ***Infrastructure Automation:** Reliable Infrastructure as Code (IaC) for fast, repeatable, and audit-ready cloud environments.*
-> 🔹 ***Secure Cloud Assets:** Security embedded at every stage (DevSecOps) to safeguard your data and maintain compliance.*
-> 🔹 ***Automation & Optimization:** Reduced operational overhead and cloud expenses through Infrastructure as Code (Terraform / Ansible).*
+> 🔹 ***DevSecOps Integration:** Security-first cloud automation that protects your data without slowing down release cycles.* <br>
+> 🔹 ***Accelerated Deployment:** Automated, reliable CI/CD pipelines that let you ship features faster and with zero downtime.* <br>
+> 🔹 ***Scalable Infrastructure:** Resilient, scalable container architectures built on Kubernetes and Docker.* <br>
+> 🔹 ***Orchestration & Containerization:** End-to-end Kubernetes and Docker management for seamless scalability.* <br>
+> 🔹 ***Infrastructure Automation:** Reliable Infrastructure as Code (IaC) for fast, repeatable, and audit-ready cloud environments.* <br>
+> 🔹 ***Secure Cloud Assets:** Security embedded at every stage (DevSecOps) to safeguard your data and maintain compliance.* <br>
+> 🔹 ***Automation & Optimization:** Reduced operational overhead and cloud expenses through Infrastructure as Code (Terraform / Ansible).* <br>
 
 *Looking to scale your infrastructure or secure your delivery pipeline? Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
 
