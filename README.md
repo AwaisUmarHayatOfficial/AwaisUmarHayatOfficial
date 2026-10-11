@@ -30,18 +30,9 @@
 
 *👋 Hi, I'm **Awais**, a **Senior DevOps & Cloud Security Specialist** with over **4.5 years** of experience transforming cloud operations. I help organizations co-design, automate, and secure high-performance cloud ecosystems. My mission is to bridge the gap between rapid development and rock-solid security, turning complex infrastructure into scalable, self-healing, and cost-effective systems.<br>  I help businesses build, scale, and secure their cloud infrastructure. I partner with startups and enterprises to streamline software delivery, optimize infrastructure costs, and implement robust cloud security.*
 
-<p style="font-style: italic;">
-  <strong>Let’s Connect:</strong> Whether you need to modernize your infrastructure, implement DevSecOps best practices, or enhance your organization's cyber resilience, feel free to reach out. Let’s build secure, scalable cloud environments together.
-</p>
+> ***Let’s Connect:** Whether you need to modernize your infrastructure, implement DevSecOps best practices, or enhance your organization's cyber resilience, feel free to reach out. Let’s build secure, scalable cloud environments together.*
 
-<p>
-  <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank" style="display: inline-flex; align-items: center; padding: 10px 18px; background-color: #0A66C2; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: bold; font-family: sans-serif;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="white" style="margin-right: 8px;">
-      <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.25V10.9H6.46M7.86 6.72a1.49 1.49 0 1 0 0 2.98 1.49 1.49 0 0 0 0-2.98z"/>
-    </svg>
-    Connect on LinkedIn
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awaisumarhayat/)
 
 
 
