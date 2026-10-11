@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me">
 
-*Hi, I’m Awais, a Senior DevOps & Cloud Security Specialist with 4.5+ years of experience helping startups and enterprises scale efficiently, cut infrastructure costs, and embed security into every stage of the delivery. 
+*Hi, I’m Awais 👋 <br> As a Senior DevOps & Cloud Security Specialist with 4.5+ years of experience helping startups and enterprises scale efficiently, cut infrastructure costs, and embed security into every stage of the delivery. 
 📩 Let’s Connect: Reach out directly here on LinkedIn or send me a message to discuss your cloud challenges!
 👋 Hi, I'm **Awais**, a **Senior DevOps & Cloud Security Specialist** with over **4.5 years** of experience transforming cloud operations. I help organizations co-design, automate, and secure high-performance cloud ecosystems. My mission is to bridge the gap between rapid development and rock-solid security, turning complex infrastructure into scalable, self-healing, and cost-effective systems.<br>  I help businesses build, scale, and secure their cloud infrastructure. I partner with startups and enterprises to streamline software delivery, optimize infrastructure costs, and implement robust cloud security.*
 
