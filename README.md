@@ -25,12 +25,14 @@
 
 ---
 
-<img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="About me">
+<img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me">
 
 *👋 Hi, I'm **Awais**, a **Senior DevOps & Cloud Security Specialist** with over **4.5 years** of experience transforming cloud operations. I help organizations co-design, automate, and secure high-performance cloud ecosystems. My mission is to bridge the gap between rapid development and rock-solid security, turning complex infrastructure into scalable, self-healing, and cost-effective systems.<br>  I help businesses build, scale, and secure their cloud infrastructure. I partner with startups and enterprises to streamline software delivery, optimize infrastructure costs, and implement robust cloud security.*
 
-> ***Let’s Connect:** Whether you need to modernize your infrastructure, implement DevSecOps best practices, or enhance your organization's cyber resilience, feel free to reach out. Let’s build secure, scalable cloud environments together.*
+> ***Let’s Connect:** Whether you need to modernize your infrastructure, implement DevSecOps best practices, or enhance your organization's cyber resilience, feel free to reach out. Let’s build secure, scalable cloud environments together.* <br>
+
 > <a href="https://www.linkedin.com/in/awaisumarhayat/"> <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me_%3E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="18" alt="LinkedIn"> </a>
+
 
 <img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Core Value I Deliver">
 
