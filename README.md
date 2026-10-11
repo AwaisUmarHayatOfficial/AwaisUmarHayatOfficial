@@ -34,8 +34,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awaisumarhayat/)
 
-
-
 <img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Core Value I Deliver">
 
 - ***DevSecOps Integration:** Security-first cloud automation that protects your data without slowing down release cycles.*
@@ -86,10 +84,10 @@
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> 
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications">
 
-- ![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Cloud Practitioner*
-- ![AWS Certified Solutions Architect](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Solutions Architect – Associate*
-- ![AWS Certified DevOps Engineer](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified DevOps Engineer – Professional*
-- ![AWS Certified Advanced Networking](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Advanced Networking – Specialty*
+> - ![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Cloud Practitioner*
+> - ![AWS Certified Solutions Architect](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Solutions Architect – Associate*
+> - ![AWS Certified DevOps Engineer](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified DevOps Engineer – Professional*
+> - ![AWS Certified Advanced Networking](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Advanced Networking – Specialty*
 
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills">
 
