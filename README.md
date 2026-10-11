@@ -27,11 +27,12 @@
 
 <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me">
 
-*Hi, I’m **Awais** 👋 <br> As a **Senior DevOps & Cloud Security Specialist** with **4.5+ years** of experience helping startups and enterprises scale efficiently, cut infrastructure costs, and embed security into every stage of the delivery.*
-<br>  I help businesses build, scale, and secure their cloud infrastructure. I partner with startups and enterprises to streamline software delivery, optimize infrastructure costs, and implement robust cloud security.*
+*Hi, I’m **Awais** 👋 <br> As a **Senior DevOps & Cloud Security Specialist** with **4.5+ years** of experience helping startups and enterprises scale efficiently, cut infrastructure costs, and embed security into every stage of the delivery. I help businesses build, scale, and secure their cloud infrastructure. I partner with startups and enterprises to streamline software delivery, optimize infrastructure costs, and implement robust cloud security.*
 
 > ***Let’s Connect:** Whether you need to modernize your infrastructure, implement DevSecOps best practices, or enhance your organization's cyber resilience, feel free to reach out. Let’s build secure, scalable cloud environments together and resilient future for your product.* <br>
-> *Reach out directly here on LinkedIn or send me a message to discuss your cloud challenges!*<br>
+
+*Reach out directly here on **LinkedIn** or send me a message to discuss your cloud challenges!*
+
 <a href="https://www.linkedin.com/in/awaisumarhayat/"> <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me_%3E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="18" alt="LinkedIn"> </a>
 
 
