@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20" alt="LinkedIn">
 </a>
 
+> <a href="https://www.linkedin.com/in/awaisumarhayat/"> <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me_%3E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="18" alt="LinkedIn"> </a>
+
 <img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Core Value I Deliver">
 
 > &#x1F539; ***DevSecOps Integration:** Security-first cloud automation that protects your data without slowing down release cycles.* <br>
