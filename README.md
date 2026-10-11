@@ -3,7 +3,11 @@
 ![Banner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Banner.gif)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-006400?style=for-the-badge&logoColor=black" alt="DevOps & Cloud Cyber Security Engineer" /> <br>
+  <img src="https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-4CAF50?style=flat-square&logoColor=black" alt="DevOps & Cloud Cyber Security Engineer" />
+  <br>
+</div>
+
+<div align="center">
   <em>Building secure, scalable and automated cloud infrastructure.</em> <br>
   <p align="center">
   <a href="#-professional-summary">Summary</a> •
