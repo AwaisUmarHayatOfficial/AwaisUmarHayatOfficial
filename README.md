@@ -19,7 +19,7 @@
 </div>
 <br>
 <p align="left">
-  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=4c1&labelColor=555&extraCount=13000" alt="Profile views" height="20" />
+  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=4c1&labelColor=555&extraCount=123000" alt="Profile views" height="20" />
 </p>
 
 ---
