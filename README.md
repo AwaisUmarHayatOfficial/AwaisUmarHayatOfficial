@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/DevOps_%26_Cloud_Cyber_Security_Engineer-4CAF50?style=flat&logoColor=black" alt="DevOps & Cloud Cyber Security Engineer" height="38" />
   <br>
 </div>
+
 <div align="center">
   <em>Building secure, scalable and automated cloud infrastructure.</em> <br>
   <p align="center">
@@ -112,10 +113,11 @@
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications"> -->
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Certifications">
-> &#x1F539; ![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Cloud Practitioner* <br>
-> &#x1F539; ![AWS Certified Solutions Architect](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Solutions Architect – Associate* <br>
-> &#x1F539; ![AWS Certified DevOps Engineer](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified DevOps Engineer – Professional* <br>
-> &#x1F539; ![AWS Certified Advanced Networking](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Advanced Networking – Specialty* <br>
+
+> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Cloud Practitioner* <br>
+> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Solutions Architect – Associate* <br>
+> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified DevOps Engineer – Professional* <br>
+> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Advanced Networking – Specialty* <br>
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
 
