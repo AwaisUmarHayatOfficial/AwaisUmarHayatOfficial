@@ -49,13 +49,11 @@
 
 ***Looking to scale your infrastructure or secure your delivery pipeline?** Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
 <img align="right" alt="Developer working on code" width="400" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Developer.gif"> <br>
-
 <p align="left">
   <a href="https://x.com/awaisumarhayat" target="_blank">
-    <img src="https://img.shields.io/badge/-Follow_%40AwaisUmarHayat-E5E7EB?style=for-the-badge&logo=x&logoColor=white&labelColor=1F2937" alt="Follow @AwaisUmarHayat on X" />
+    <img src="https://img.shields.io/badge/-Follow_%40AwaisUmarHayat-E5E7EB?style=flat&logo=x&logoColor=white&labelColor=1F2937" alt="Follow @AwaisUmarHayat on X" />
   </a>
 </p>
-
 <!--
 <p align="left">
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
