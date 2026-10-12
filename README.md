@@ -18,9 +18,9 @@
   </p>
 </div>
 <br>
-
-<p align="left">  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=0e75b6" alt="Profile views counter for awaisumarhayatofficial" /> </p>
-
+<p align="left">
+  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=4c1&labelColor=555&extraCount=453000" alt="Profile views" height="20" />
+</p>
 
 ---
 
