@@ -23,20 +23,21 @@
 </p>
 
 ---
+<!-- <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me"> --> 
+<img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="About me">
 
-<img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me">
 
 *Hi, I’m **Awais** 👋 <br>*
 *A **Senior DevOps Engineer, Cloud Security Architect & SRE Specialist** with **4.5+ years** of hands-on experience. I help startups and enterprises to build, scale, and secure high-performance multi-cloud infrastructure, cut infrastructure costs, and achieve zero-downtime deployments. My focus is on designing resilient, self-healing, and secure multi-cloud architectures.*
 
 > ***Let’s Connect:** Whether you need to modernize your infrastructure, implement DevSecOps best practices, or enhance your organization's cyber resilience, feel free to reach out. Let’s build secure, scalable cloud environments together and resilient future for your product.* <br>
 
-*Reach out directly here on **LinkedIn** or send me a message to discuss your cloud challenges!*
+*Reach out directly here on **LinkedIn** or send me a message to discuss your cloud challenges!* <br>
 
-<a href="https://www.linkedin.com/in/awaisumarhayat/"> <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-D1D5DB?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==&labelColor=F3F4F6" height="20" alt="LinkedIn"> </a>
-<br>
+<a href="https://www.linkedin.com/in/awaisumarhayat/"> <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-D1D5DB?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==&labelColor=F3F4F6" height="20" alt="LinkedIn"> </a> <br>
 
-<img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Core Value I Deliver">
+<!-- <img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Core Value I Deliver"> -->
+<img src="https://img.shields.io/badge/💬%20Core%20Value%20I%20Deliver-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Core Value I Deliver">
 
 > &#x1F539; ***DevSecOps Integration:** Security-first cloud automation that protects your data without slowing down release cycles.* <br>
 > &#x1F539; ***Accelerated Deployment:** Automated, reliable CI/CD pipelines that let you ship features faster and with zero downtime.* <br>
@@ -49,11 +50,13 @@
 
 ***Looking to scale your infrastructure or secure your delivery pipeline?** Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
 <img align="right" alt="Developer working on code" width="400" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Developer.gif"> <br>
+
 <p align="left">
   <a href="https://x.com/awaisumarhayat" target="_blank">
     <img src="https://img.shields.io/badge/-Follow_%40AwaisUmarHayat-E5E7EB?style=flat&logo=x&logoColor=white&labelColor=1F2937" alt="Follow @AwaisUmarHayat on X" />
   </a>
 </p>
+
 <!--
 <p align="left">
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
@@ -78,34 +81,35 @@
 
 
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-D1D5DB?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoSize=auto" height="36" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-D1D5DB?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoSize=auto" height="36" alt="LinkedIn" />
   </a>
   <a href="https://github.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20GitHub%20%20-D1D5DB?style=flat-square&logo=github&logoColor=181717&logoSize=auto" height="36" alt="GitHub" />
+    <img src="https://img.shields.io/badge/%20%20GitHub%20%20-D1D5DB?style=flat&logo=github&logoColor=181717&logoSize=auto" height="36" alt="GitHub" />
   </a>
   <a href="https://gitlab.com/AwaisUmarHayat" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20GitLab%20%20-D1D5DB?style=flat-square&logo=gitlab&logoColor=FC6D26&logoSize=auto" height="36" alt="GitLab" />
+    <img src="https://img.shields.io/badge/%20%20GitLab%20%20-D1D5DB?style=flat&logo=gitlab&logoColor=FC6D26&logoSize=auto" height="36" alt="GitLab" />
   </a>
   <a href="https://www.youtube.com/@AwaisUmarHayatOfficials" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20YouTube%20%20-D1D5DB?style=flat-square&logo=youtube&logoColor=FF0000&logoSize=auto" height="36" alt="YouTube" />
+    <img src="https://img.shields.io/badge/%20%20YouTube%20%20-D1D5DB?style=flat&logo=youtube&logoColor=FF0000&logoSize=auto" height="36" alt="YouTube" />
   </a>
   <a href="https://www.facebook.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20Facebook%20%20-D1D5DB?style=flat-square&logo=facebook&logoColor=0866FF&logoSize=auto" height="36" alt="Facebook" />
+    <img src="https://img.shields.io/badge/%20%20Facebook%20%20-D1D5DB?style=flat&logo=facebook&logoColor=0866FF&logoSize=auto" height="36" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20Instagram%20%20-D1D5DB?style=flat-square&logo=instagram&logoColor=E4405F&logoSize=auto" height="36" alt="Instagram" />
+    <img src="https://img.shields.io/badge/%20%20Instagram%20%20-D1D5DB?style=flat&logo=instagram&logoColor=E4405F&logoSize=auto" height="36" alt="Instagram" />
   </a>
 </p>
+<!-- <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience"> -->
+<img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Project Experience">
 
-
-<img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience">
 
 > *A complete portfolio of my projects is available here:  
 > 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)***
 
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications">
-
+<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications"> -->
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Certifications">
 > &#x1F539; ![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Cloud Practitioner* <br>
 > &#x1F539; ![AWS Certified Solutions Architect](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Solutions Architect – Associate* <br>
 > &#x1F539; ![AWS Certified DevOps Engineer](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified DevOps Engineer – Professional* <br>
@@ -113,7 +117,8 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
 
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills">
+<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills"> -->
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Technical Skills">
 
 ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue)  ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)  ![SysOps Linux Administrator](https://img.shields.io/badge/SysOps_Linux_Administrator-4CAF50?style=flat&logo=linux&logoColor=white&labelColor=lblue)
 
@@ -134,15 +139,16 @@
 > &#x1F539; ***Monitoring Tools:***  <br>
 > ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)<br>
 
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="GitHub Activity">
+<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="GitHub Activity"> -->
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="GitHub Activity">
 
 <p align="center">
   <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AwaisUmarHayatOfficial&show_icons=true&theme=default&hide_border=true" />
   <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisUmarHayatOfficial&layout=compact&theme=default&hide_border=true" />
 </p>
 
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Get in Touch">
-
+<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Get in Touch"> -->
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Get in Touch">
 <p align="left">
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
     <img src='https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Linkedin.png' alt='LinkedIn' height='40'>
@@ -167,7 +173,8 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Languages%20and%20Tools-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Languages and Tools">
+<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Languages%20and%20Tools-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Languages and Tools"> -->
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Languages%20and%20Tools-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Languages and Tools">
 
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
