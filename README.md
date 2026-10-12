@@ -66,14 +66,12 @@
   <a href="https://github.com/awaisumarhayatofficial" target="_blank">
     <img src="https://img.shields.io/badge/%20%20GitHub%20%20-555555?style=flat-square&logo=github&logoColor=white&logoSize=auto" height="36" alt="GitHub" />
   </a>
-  <br>
   <a href="https://gitlab.com/AwaisUmarHayat" target="_blank">
     <img src="https://img.shields.io/badge/%20%20GitLab%20%20-555555?style=flat-square&logo=gitlab&logoColor=white&logoSize=auto" height="36" alt="GitLab" />
   </a>
   <a href="https://www.youtube.com/@AwaisUmarHayatOfficials" target="_blank">
     <img src="https://img.shields.io/badge/%20%20YouTube%20%20-555555?style=flat-square&logo=youtube&logoColor=white&logoSize=auto" height="36" alt="YouTube" />
   </a>
-  <br>
   <a href="https://www.facebook.com/awaisumarhayatofficial" target="_blank">
     <img src="https://img.shields.io/badge/%20%20Facebook%20%20-555555?style=flat-square&logo=facebook&logoColor=white&logoSize=auto" height="36" alt="Facebook" />
   </a>
@@ -81,7 +79,6 @@
     <img src="https://img.shields.io/badge/%20%20Instagram%20%20-555555?style=flat-square&logo=instagram&logoColor=white&logoSize=auto" height="36" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 <p align="left">
