@@ -80,6 +80,28 @@
   </a>
 </p>
 
+
+  <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
+    <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-D1D5DB?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoSize=auto" height="36" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/awaisumarhayatofficial" target="_blank">
+    <img src="https://img.shields.io/badge/%20%20GitHub%20%20-D1D5DB?style=flat-square&logo=github&logoColor=181717&logoSize=auto" height="36" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/AwaisUmarHayat" target="_blank">
+    <img src="https://img.shields.io/badge/%20%20GitLab%20%20-D1D5DB?style=flat-square&logo=gitlab&logoColor=FC6D26&logoSize=auto" height="36" alt="GitLab" />
+  </a>
+  <a href="https://www.youtube.com/@AwaisUmarHayatOfficials" target="_blank">
+    <img src="https://img.shields.io/badge/%20%20YouTube%20%20-D1D5DB?style=flat-square&logo=youtube&logoColor=FF0000&logoSize=auto" height="36" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/awaisumarhayatofficial" target="_blank">
+    <img src="https://img.shields.io/badge/%20%20Facebook%20%20-D1D5DB?style=flat-square&logo=facebook&logoColor=0866FF&logoSize=auto" height="36" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/awaisumarhayatofficial" target="_blank">
+    <img src="https://img.shields.io/badge/%20%20Instagram%20%20-D1D5DB?style=flat-square&logo=instagram&logoColor=E4405F&logoSize=auto" height="36" alt="Instagram" />
+  </a>
+</p>
+
+
 <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience">
 
 > *A complete portfolio of my projects is available here:  
