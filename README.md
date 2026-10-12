@@ -48,7 +48,7 @@
 > &#x1F539; ***Automation & Optimization:** Reduced cloud expenses through Infrastructure as Code (Terraform / Ansible).* <br>
 > &#x1F539; ***SRE & Cost Optimization:** Implementing self-healing architectures, proactive monitoring, and disaster recovery to minimize downtime and reduce monthly cloud expenses.*<br>
 
-*Looking to scale your infrastructure or secure your delivery pipeline? Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
+***Looking to scale your infrastructure or secure your delivery pipeline?** Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
 
 <img align="right" alt="Developer working on code" width="400" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Developer.gif"> <br>
 
