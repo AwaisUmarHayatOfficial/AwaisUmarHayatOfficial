@@ -51,13 +51,6 @@
 
 <img align="right" alt="Developer working on code" width="400" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Developer.gif"> <br>
 
-
-<p align="left">
-  <a href="https://x.com/awaisumarhayat" target="_blank">
-    <img src="https://img.shields.io/badge/-Follow_%40AwaisUmarHayat-D1D5DB?style=for-the-badge&logo=x&logoColor=1F2937&labelColor=F3F4F6" alt="Follow @AwaisUmarHayat on X" />
-  </a>
-</p>
-
 <p align="left">
   <a href="https://x.com/awaisumarhayat" target="_blank">
     <img src="https://img.shields.io/badge/-Follow_%40AwaisUmarHayat-E5E7EB?style=for-the-badge&logo=x&logoColor=white&labelColor=1F2937" alt="Follow @AwaisUmarHayat on X" />
