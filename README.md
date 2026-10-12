@@ -51,36 +51,6 @@
 
 <img align="right" alt="Developer working on code" width="400" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Developer.gif"> <br>
 
-<!-- <p align="left">
-  <a href="https://linkedin.com/in/AwaisUmarHayat" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/AwaisUmarHayat?logo=twitter&style=for-the-badge" alt="AwaisUmarHayat" />
-  </a>
-</p> -->
-
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-555555?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoSize=auto" height="36" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20GitHub%20%20-555555?style=flat-square&logo=github&logoColor=white&logoSize=auto" height="36" alt="GitHub" />
-  </a>
-  <a href="https://gitlab.com/AwaisUmarHayat" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20GitLab%20%20-555555?style=flat-square&logo=gitlab&logoColor=white&logoSize=auto" height="36" alt="GitLab" />
-  </a>
-  <a href="https://www.youtube.com/@AwaisUmarHayatOfficials" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20YouTube%20%20-555555?style=flat-square&logo=youtube&logoColor=white&logoSize=auto" height="36" alt="YouTube" />
-  </a>
-  <a href="https://www.facebook.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20Facebook%20%20-555555?style=flat-square&logo=facebook&logoColor=white&logoSize=auto" height="36" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20Instagram%20%20-555555?style=flat-square&logo=instagram&logoColor=white&logoSize=auto" height="36" alt="Instagram" />
-  </a>
-</p>
-
----
 
 <p align="left">
   <a href="https://x.com/awaisumarhayat" target="_blank">
@@ -88,24 +58,25 @@
   </a>
 </p>
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
-    <img src="https://img.shields.io/badge/-AwaisUmarHayat-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="AwaisUmarHayat" />
+    <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-D1D5DB?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMUYyOTM3IiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoSize=auto" height="36" alt="LinkedIn" />
   </a>
   <a href="https://github.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/-AwaisUmarHayat-black?style=for-the-badge&logo=github&logoColor=white" alt="AwaisUmarHayat" />
+    <img src="https://img.shields.io/badge/%20%20GitHub%20%20-D1D5DB?style=flat-square&logo=github&logoColor=1F2937&logoSize=auto" height="36" alt="GitHub" />
   </a>
   <a href="https://gitlab.com/AwaisUmarHayat" target="_blank">
-    <img src="https://img.shields.io/badge/-AwaisUmarHayat-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="AwaisUmarHayat" />
+    <img src="https://img.shields.io/badge/%20%20GitLab%20%20-D1D5DB?style=flat-square&logo=gitlab&logoColor=1F2937&logoSize=auto" height="36" alt="GitLab" />
   </a>
   <a href="https://www.youtube.com/@AwaisUmarHayatOfficials" target="_blank">
-    <img src="https://img.shields.io/badge/-AwaisUmarHayat-red?style=for-the-badge&logo=youtube&logoColor=white" alt="AwaisUmarHayat" />
+    <img src="https://img.shields.io/badge/%20%20YouTube%20%20-D1D5DB?style=flat-square&logo=youtube&logoColor=1F2937&logoSize=auto" height="36" alt="YouTube" />
   </a>
   <a href="https://www.facebook.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/-AwaisUmarHayat-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="AwaisUmarHayat" />
+    <img src="https://img.shields.io/badge/%20%20Facebook%20%20-D1D5DB?style=flat-square&logo=facebook&logoColor=1F2937&logoSize=auto" height="36" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/awaisumarhayatofficial" target="_blank">
-    <img src="https://img.shields.io/badge/-AwaisUmarHayat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AwaisUmarHayat" />
+    <img src="https://img.shields.io/badge/%20%20Instagram%20%20-D1D5DB?style=flat-square&logo=instagram&logoColor=1F2937&logoSize=auto" height="36" alt="Instagram" />
   </a>
 </p>
 
