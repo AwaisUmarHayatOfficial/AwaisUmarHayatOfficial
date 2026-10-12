@@ -20,10 +20,6 @@
 <br>
 
 > <p align="left">  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=0e75b6" alt="Profile views counter for awaisumarhayatofficial" /> </p>
-
-> <p align="left">  <img src="https://komarev.com/ghpvc/?username=AwaisUmarHayatOfficial&label=Profile%20views&color=0e75b6&style=flat&base=2583" alt="Profile views counter for awaisumarhayatofficial" /> </p>
-
-
 ---
 
 <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me">
