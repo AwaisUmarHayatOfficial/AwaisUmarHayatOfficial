@@ -19,7 +19,7 @@
 </div>
 <br>
 <p align="left">
-  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=4c1&labelColor=555&extraCount=453000" alt="Profile views" height="20" />
+  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=4c1&labelColor=555&extraCount=13000" alt="Profile views" height="20" />
 </p>
 
 ---
@@ -79,6 +79,7 @@
     <img src="https://img.shields.io/badge/%20%20Instagram%20%20-555555?style=flat-square&logo=instagram&logoColor=white&logoSize=auto" height="36" alt="Instagram" />
   </a>
 </p>
+
 ---
 
 <p align="left">
