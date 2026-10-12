@@ -58,7 +58,13 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://x.com/awaisumarhayat" target="_blank">
+    <img src="https://img.shields.io/badge/-Follow_%40AwaisUmarHayat-E5E7EB?style=for-the-badge&logo=x&logoColor=white&labelColor=1F2937" alt="Follow @AwaisUmarHayat on X" />
+  </a>
+</p>
 
+<!--
 <p align="left">
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
     <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-D1D5DB?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMUYyOTM3IiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoSize=auto" height="36" alt="LinkedIn" />
@@ -78,7 +84,7 @@
   <a href="https://www.instagram.com/awaisumarhayatofficial" target="_blank">
     <img src="https://img.shields.io/badge/%20%20Instagram%20%20-D1D5DB?style=flat-square&logo=instagram&logoColor=1F2937&logoSize=auto" height="36" alt="Instagram" />
   </a>
-</p>
+</p> -->
 
 
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
