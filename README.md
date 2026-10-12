@@ -19,7 +19,7 @@
 </div>
 <br>
 <p align="left">
-  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=4c1&labelColor=555&extraCount=123000" alt="Profile views" height="20" />
+  <img src="https://hits.sh/github.com/AwaisUmarHayatOfficial.svg?style=flat&label=Profile%20views&color=4c1&labelColor=555&extraCount=13000" alt="Profile views" height="20" />
 </p>
 
 ---
@@ -83,9 +83,8 @@
 <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience">
 
 > *A complete portfolio of my projects is available here:  
-> 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)*** <br>
+> 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)***
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif"> <br>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications">
 
@@ -93,6 +92,8 @@
 > &#x1F539; ![AWS Certified Solutions Architect](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Solutions Architect – Associate* <br>
 > &#x1F539; ![AWS Certified DevOps Engineer](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified DevOps Engineer – Professional* <br>
 > &#x1F539; ![AWS Certified Advanced Networking](https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/.aws.png) *AWS Certified Advanced Networking – Specialty* <br>
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
 
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills">
 
