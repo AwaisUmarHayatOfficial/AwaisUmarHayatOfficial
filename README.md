@@ -45,8 +45,8 @@
 > &#x1F539; ***Orchestration & Containerization:** End-to-end Kubernetes and Docker management for seamless scalability.* <br>
 > &#x1F539; ***Infrastructure Automation:** Reliable Infrastructure as Code (IaC) for fast, repeatable, and audit-ready cloud environments.* <br>
 > &#x1F539; ***Secure Cloud Assets:** Security embedded at every stage (DevSecOps) to safeguard your data and maintain compliance.* <br>
-> &#x1F539; ***Automation & Optimization:** Reduced operational overhead and cloud expenses through Infrastructure as Code (Terraform / Ansible).* <br>
 > &#x1F539; ***SRE & Cost Optimization:** Implementing self-healing architectures, proactive monitoring, and disaster recovery to minimize downtime and reduce monthly cloud expenses.*<br>
+> &#x1F539; ***Automation & Optimization:** Reduced operational overhead and cloud expenses through Infrastructure as Code (Terraform / Ansible).* <br>
 
 *Looking to scale your infrastructure or secure your delivery pipeline? Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
 
