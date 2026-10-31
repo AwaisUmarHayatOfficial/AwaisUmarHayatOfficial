@@ -113,11 +113,20 @@
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications"> -->
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Certifications">
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Cloud Practitioner*** <br>
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Solutions Architect - Associate*** <br>
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified DevOps Engineer - Professional*** <br>
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Advanced Networking - Specialty*** <br>
 
-> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Cloud Practitioner* <br>
-> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Solutions Architect – Associate* <br>
-> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified DevOps Engineer – Professional* <br>
-> &#x1F539; *<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Advanced Networking – Specialty* <br>
+
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20DevOps%20Stack-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="DevOps Stack">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,git,github,linux,nginx,aws,azure,gcp,prometheus,grafana&perline=16" alt="DevOps Tools" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,groovy,yaml,json&perline=12" alt="Languages" />
+</p>
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
 
@@ -143,13 +152,28 @@
 > &#x1F539; ***Monitoring Tools:***  <br>
 > ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)<br>
 
+
 <!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="GitHub Activity"> -->
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="GitHub Activity">
 
 <p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AwaisUmarHayatOfficial&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisUmarHayatOfficial&theme=default" />
+</p>
+
+<p align="center">
+  <img width="48%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AwaisUmarHayatOfficial&theme=default" />
+  <img width="48%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AwaisUmarHayatOfficial&theme=default&utcOffset=5" />
+</p>
+
+
+<!-- <p align="center">
   <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AwaisUmarHayatOfficial&show_icons=true&theme=default&hide_border=true" />
   <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisUmarHayatOfficial&layout=compact&theme=default&hide_border=true" />
-</p>
+</p> -->
 
 <!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Get in Touch"> -->
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Get in Touch">
@@ -177,12 +201,13 @@
   </a>
 </p>
 
+
 <!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Languages%20and%20Tools-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Languages and Tools"> -->
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Languages%20and%20Tools-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Languages and Tools">
 
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
@@ -203,4 +228,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+</p>
+<br>
+<p align="center">
+  <img width="100%" alt="Contribution Graph" src="https://ghchart.rshah.org/fb8c00/AwaisUmarHayatOfficial" />
 </p>
