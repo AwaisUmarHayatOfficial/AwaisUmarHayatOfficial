@@ -82,7 +82,7 @@
   </a>
 </p> -->
 
-
+<p align="left">
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
     <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-D1D5DB?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoSize=auto" height="36" alt="LinkedIn" />
   </a>
@@ -102,6 +102,7 @@
     <img src="https://img.shields.io/badge/%20%20Instagram%20%20-D1D5DB?style=flat&logo=instagram&logoColor=E4405F&logoSize=auto" height="36" alt="Instagram" />
   </a>
 </p>
+
 <!-- <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience"> -->
 <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Project Experience">
 
@@ -117,7 +118,6 @@
 > ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Solutions Architect - Associate*** <br>
 > ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified DevOps Engineer - Professional*** <br>
 > ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Advanced Networking - Specialty*** <br>
-
 
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20DevOps%20Stack-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="DevOps Stack">
 
@@ -156,15 +156,15 @@
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="GitHub Activity">
 
 <p align="center">
-  <img width="96%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AwaisUmarHayatOfficial&theme=default&hide_border=true" />
+  <img width="50%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AwaisUmarHayatOfficial&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="97%" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisUmarHayatOfficial&theme=default" />
+  <img width="68%" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisUmarHayatOfficial&theme=default" />
 </p>
 <p align="center">
-  <img width="48%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AwaisUmarHayatOfficial&theme=default" />
-  <img width="48%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AwaisUmarHayatOfficial&theme=default&utcOffset=5" />
+  <img width="34%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AwaisUmarHayatOfficial&theme=default" />
+  <img width="34%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AwaisUmarHayatOfficial&theme=default&utcOffset=5" />
 </p>
 <!-- <p align="center">
   <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AwaisUmarHayatOfficial&show_icons=true&theme=default&hide_border=true" />
@@ -226,6 +226,6 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
 </p>
 <br>
-<!--<p align="center">
-  <img width="100%" alt="Contribution Graph" src="https://ghchart.rshah.org/fb8c00/AwaisUmarHayatOfficial" />
-</p> -->
+<p align="center">
+  <img width="73%" alt="Contribution Graph" src="https://ghchart.rshah.org/fb8c00/AwaisUmarHayatOfficial" />
+</p>
