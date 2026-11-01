@@ -121,7 +121,7 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20DevOps%20Stack-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="DevOps Stack">
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,git,github,linux,nginx,aws,azure,gcp,prometheus,grafana&perline=16" alt="DevOps Tools" />
 </p>
 <p align="left">
