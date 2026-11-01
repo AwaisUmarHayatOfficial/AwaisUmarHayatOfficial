@@ -152,24 +152,20 @@
 > &#x1F539; ***Monitoring Tools:***  <br>
 > ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)<br>
 
-
 <!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="GitHub Activity"> -->
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="GitHub Activity">
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AwaisUmarHayatOfficial&theme=default&hide_border=true" />
+  <img width="96%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AwaisUmarHayatOfficial&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisUmarHayatOfficial&theme=default" />
+  <img width="97%" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisUmarHayatOfficial&theme=default" />
 </p>
-
 <p align="center">
   <img width="48%" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AwaisUmarHayatOfficial&theme=default" />
   <img width="48%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AwaisUmarHayatOfficial&theme=default&utcOffset=5" />
 </p>
-
-
 <!-- <p align="center">
   <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AwaisUmarHayatOfficial&show_icons=true&theme=default&hide_border=true" />
   <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisUmarHayatOfficial&layout=compact&theme=default&hide_border=true" />
@@ -230,6 +226,6 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
 </p>
 <br>
-<p align="center">
+<!--<p align="center">
   <img width="100%" alt="Contribution Graph" src="https://ghchart.rshah.org/fb8c00/AwaisUmarHayatOfficial" />
-</p>
+</p> -->
