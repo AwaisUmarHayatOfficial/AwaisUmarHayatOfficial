@@ -29,8 +29,8 @@
 ---
 
 <!-- <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me"> --> 
+<a name="about"></a>
 <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="About me">
-
 
 *Hi, I’m **Awais** 👋 <br>*
 *A **Senior DevOps Engineer, Cloud Security Architect & SRE Specialist** with **4.5+ years** of hands-on experience. I help startups and enterprises to build, scale, and secure high-performance multi-cloud infrastructure, cut infrastructure costs, and achieve zero-downtime deployments. My focus is on designing resilient, self-healing, and secure multi-cloud architectures.*
@@ -56,12 +56,14 @@
 ***Looking to scale your infrastructure or secure your delivery pipeline?** Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
 <img align="right" alt="Developer working on code" width="400" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Developer.gif"> <br>
 
+<a name="book-a-call"></a>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Book%20a%20Call-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Book a Call">
 
 > *Want to discuss your cloud security or DevOps project?* <br>
 > ***Let's talk for 30 minutes:*** <br>
 > 📅 ***[Book an Appointment](https://calendly.com/awaisumarhayatofficial/30min)*** <br>
 
+<a name="professional-profile"></a>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Professional%20Profile-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Professional Profile">
 
 > *Want a deeper look at my experience, skills and certifications?* <br>
@@ -69,11 +71,13 @@
 > 👉 ***[View Professional Profile](https://docs.google.com/document/d/1q1BZDQGXT3JgkyZBycA6Pk7HPrhvp6aK/edit?usp=sharing&ouid=108523760063577712981&rtpof=true&sd=true)***
 
 <!-- <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience"> -->
+<a name="project-experience"></a>
 <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Project Experience">
 
 > *A complete portfolio of my projects is available here:  
 > 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)*** <br>
 
+<a name="certifications"></a>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Certifications"> <br>
 > ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Cloud Practitioner*** <br>
 > ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Solutions Architect - Associate*** <br>
@@ -93,7 +97,7 @@
 
 <!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills"> -->
 
-
+<a name="technical-skills"></a>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Technical Skills">
 
 ![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue)  ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)  ![SysOps Linux Administrator](https://img.shields.io/badge/SysOps_Linux_Administrator-4CAF50?style=flat&logo=linux&logoColor=white&labelColor=lblue)
@@ -184,6 +188,7 @@
 </p> -->
 
 <!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Get in Touch"> -->
+<a name="get-in-touch"></a>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Get in Touch">
 <p align="left">
   <a href="https://www.linkedin.com/in/awaisumarhayat/" target="_blank">
