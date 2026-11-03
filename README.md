@@ -62,6 +62,7 @@
 > *Want to discuss your cloud security or DevOps project?* <br>
 > ***Let's talk for 30 minutes:*** <br>
 > 📅 ***[Book an Appointment](https://calendly.com/awaisumarhayatofficial/30min)*** <br>
+> <sub>💡 Tip: Ctrl+Click to open in a new tab</sub>
 
 <a name="professional-profile"></a>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Professional%20Profile-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Professional Profile">
@@ -69,6 +70,7 @@
 > *Want a deeper look at my experience, skills and certifications?* <br>
 > ***Explore my professional background:*** <br>
 > 👉 ***[View Professional Profile](https://docs.google.com/document/d/1q1BZDQGXT3JgkyZBycA6Pk7HPrhvp6aK/edit?usp=sharing&ouid=108523760063577712981&rtpof=true&sd=true)***
+> <sub>💡 Tip: Ctrl+Click to open in a new tab</sub>
 
 <!-- <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience"> -->
 <a name="project-experience"></a>
@@ -76,6 +78,7 @@
 
 > *A complete portfolio of my projects is available here:  
 > 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)*** <br>
+> <sub>💡 Tip: Ctrl+Click to open in a new tab</sub>
 
 <a name="certifications"></a>
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Certifications"> <br>
