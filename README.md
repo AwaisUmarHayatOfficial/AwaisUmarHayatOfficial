@@ -12,12 +12,13 @@
 <div align="center">
   <em>Building secure, scalable and automated cloud infrastructure.</em> <br>
   <p align="center">
-    <a href="#-professional-summary">Summary</a> •
-    <a href="#-core-competencies">Competencies</a> •
-    <a href="#-certifications">Certifications</a> •
-    <a href="#-technical-skills">Skills</a> •
-    <a href="#-project-experience">Projects</a> •
-    <a href="#-get-in-touch">Contact</a>
+    <a href="#about">About</a> •
+    <a href="#book-a-call">Book a Call</a> •
+    <a href="#professional-profile">Profile</a> •
+    <a href="#project-experience">Projects</a> •
+    <a href="#certifications">Certifications</a> •
+    <a href="#technical-skills">Skills</a> •
+    <a href="#get-in-touch">Contact</a>
   </p>
 </div>
 <br>
@@ -26,6 +27,7 @@
 </p>
 
 ---
+
 <!-- <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat-square&labelColor=2D4A3E" height="50" alt="About me"> --> 
 <img src="https://img.shields.io/badge/💬%20About%20me-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="About me">
 
@@ -53,6 +55,65 @@
 
 ***Looking to scale your infrastructure or secure your delivery pipeline?** Let's discuss how we can build a resilient cloud architecture tailored to your business goals.*
 <img align="right" alt="Developer working on code" width="400" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/Developer.gif"> <br>
+
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Book%20a%20Call-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Book a Call">
+
+> *Want to discuss your cloud security or DevOps project?* <br>
+> ***Let's talk for 30 minutes:*** <br>
+> 📅 ***[Book an Appointment](https://calendly.com/awaisumarhayatofficial/30min)*** <br>
+
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Professional%20Profile-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Professional Profile">
+
+> *Want a deeper look at my experience, skills and certifications?* <br>
+> ***Explore my professional background:*** <br>
+> 👉 ***[View Professional Profile](https://docs.google.com/document/d/1q1BZDQGXT3JgkyZBycA6Pk7HPrhvp6aK/edit?usp=sharing&ouid=108523760063577712981&rtpof=true&sd=true)***
+
+<!-- <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience"> -->
+<img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Project Experience">
+
+> *A complete portfolio of my projects is available here:  
+> 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)*** <br>
+
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Certifications"> <br>
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Cloud Practitioner*** <br>
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Solutions Architect - Associate*** <br>
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified DevOps Engineer - Professional*** <br>
+> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Advanced Networking - Specialty*** <br>
+
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20DevOps%20Stack-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="DevOps Stack">
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,git,github,linux,nginx,aws,azure,gcp,prometheus,grafana&perline=16" alt="DevOps Tools" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,groovy,yaml,json&perline=12" alt="Languages" />
+</p>
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
+
+<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills"> -->
+
+
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Technical Skills">
+
+![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue)  ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)  ![SysOps Linux Administrator](https://img.shields.io/badge/SysOps_Linux_Administrator-4CAF50?style=flat&logo=linux&logoColor=white&labelColor=lblue)
+
+> &#x1F539; ***Operating Systems:***  
+> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=red&labelColor=lightgreen)  ![CentOS 7](https://img.shields.io/badge/CentOS_7-DBDB00?style=flat&logo=centos&logoColor=black&labelColor=lightblue)  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=yellow)  ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=lightblue) <br>
+> &#x1F539; ***Version Control & CI/CD Pipelines:***  
+> ![GitHub](https://img.shields.io/badge/GitHub-DBDB00?style=flat&logo=github&logoColor=white&labelColor=black)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=orange&labelColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=black&labelColor=lightblue)  ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=orange&labelColor=purple)  ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=darkgreen&labelColor=lightorange)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=black&labelColor=white) <br>
+> &#x1F539; ***Cloud Technologies:*** <br>
+> ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white&labelColor=blue)  ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white&labelColor=lightgray)  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=black&labelColor=yellow)  ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white&labelColor=gray) <br>
+> &#x1F539; ***Containerization & Orchestration:*** <br>
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=darkblue&labelColor=lightgray)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-FF9900?style=flat&logo=kubernetes&logoColor=blue&labelColor=white) <br>
+> &#x1F539; ***Infrastructure as Code (IaC) & Configuration Management:*** <br>
+> ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=darkblue&labelColor=orange)  ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=black&labelColor=lightgreen)  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=blue&labelColor=lightgreen)  ![Chef](https://img.shields.io/badge/Chef-557C94?style=flat&logo=chef&logoColor=black&labelColor=lightblue) <br>
+> &#x1F539; ***Scripting & Programming Languages:*** <br>
+> ![Python](https://img.shields.io/badge/Python-FC6D26?style=flat&logo=python&logoColor=black&labelColor=lightyellow)  ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white&labelColor=lightgreen)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=lightgray)  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=grey&labelColor=lightgreen)  ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=black&labelColor=lightblue) <br>
+> &#x1F539; ***Web & Database Management:***  <br>
+> ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray)  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow)  ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue)  ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
+> &#x1F539; ***Monitoring Tools:***  <br>
+> ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)<br>
 
 <p align="left">
   <a href="https://x.com/awaisumarhayat" target="_blank">
@@ -102,55 +163,6 @@
     <img src="https://img.shields.io/badge/%20%20Instagram%20%20-D1D5DB?style=flat&logo=instagram&logoColor=E4405F&logoSize=auto" height="36" alt="Instagram" />
   </a>
 </p>
-
-<!-- <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience"> -->
-<img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Project Experience">
-
-
-> *A complete portfolio of my projects is available here:  
-> 👉 **[View Projects Portfolio](https://www.linkedin.com/in/awaisumarhayat/details/projects/)***
-
-<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Certifications"> -->
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20me%20about-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Ask me about"> <br>
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Certifications-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Certifications">
-> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Cloud Practitioner*** <br>
-> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Solutions Architect - Associate*** <br>
-> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified DevOps Engineer - Professional*** <br>
-> ***<img src="https://skillicons.dev/icons?i=aws" height="24" align="absmiddle" alt="AWS" />&nbsp;&nbsp;AWS Certified Advanced Networking - Specialty*** <br>
-
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20DevOps%20Stack-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="DevOps Stack">
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,git,github,linux,nginx,aws,azure,gcp,prometheus,grafana&perline=16" alt="DevOps Tools" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,groovy,yaml,json&perline=12" alt="Languages" />
-</p>
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AwaisUmarHayatOfficial/AwaisUmarHayatOfficial/main/DEV.gif">
-
-<!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Technical Skills"> -->
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Technical%20Skills-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="Technical Skills">
-
-![Cloud CyberSecurity](https://img.shields.io/badge/Cloud_CyberSecurity-C9A001?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![DevOps](https://img.shields.io/badge/DevOps-00A86B?style=flat&logo=docker&logoColor=white&labelColor=lblue)  ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0099FF?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-007ACC?style=flat&logo=cloudflare&logoColor=white&labelColor=lblue)  ![System Engineer](https://img.shields.io/badge/System_Engineer-2196F3?style=flat&logo=linux&logoColor=white&labelColor=lblue)  ![SysOps Linux Administrator](https://img.shields.io/badge/SysOps_Linux_Administrator-4CAF50?style=flat&logo=linux&logoColor=white&labelColor=lblue)
-
-> &#x1F539; ***Operating Systems:***  
-> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=red&labelColor=lightgreen)  ![CentOS 7](https://img.shields.io/badge/CentOS_7-DBDB00?style=flat&logo=centos&logoColor=black&labelColor=lightblue)  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=black&labelColor=yellow)  ![Windows Server 2019](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&labelColor=lightblue) <br>
-> &#x1F539; ***Version Control & CI/CD Pipelines:***  
-> ![GitHub](https://img.shields.io/badge/GitHub-DBDB00?style=flat&logo=github&logoColor=white&labelColor=black)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=orange&labelColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=black&labelColor=lightblue)  ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=orange&labelColor=purple)  ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=darkgreen&labelColor=lightorange)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=black&labelColor=white) <br>
-> &#x1F539; ***Cloud Technologies:*** <br>
-> ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white&labelColor=blue)  ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white&labelColor=lightgray)  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=black&labelColor=yellow)  ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white&labelColor=gray) <br>
-> &#x1F539; ***Containerization & Orchestration:*** <br>
-> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=darkblue&labelColor=lightgray)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-FF9900?style=flat&logo=kubernetes&logoColor=blue&labelColor=white) <br>
-> &#x1F539; ***Infrastructure as Code (IaC) & Configuration Management:*** <br>
-> ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=darkblue&labelColor=orange)  ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=black&labelColor=lightgreen)  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=blue&labelColor=lightgreen)  ![Chef](https://img.shields.io/badge/Chef-557C94?style=flat&logo=chef&logoColor=black&labelColor=lightblue) <br>
-> &#x1F539; ***Scripting & Programming Languages:*** <br>
-> ![Python](https://img.shields.io/badge/Python-FC6D26?style=flat&logo=python&logoColor=black&labelColor=lightyellow)  ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white&labelColor=lightgreen)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=lightgray)  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=grey&labelColor=lightgreen)  ![YAML](https://img.shields.io/badge/YAML-C9A001?style=flat&logo=yaml&logoColor=black&labelColor=lightblue) <br>
-> &#x1F539; ***Web & Database Management:***  <br>
-> ![SQL Databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat&logo=mysql&logoColor=darkblue&labelColor=lightgray)  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=darkblue&labelColor=lightyellow)  ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=black&labelColor=lightblue)  ![NoSQL Databases](https://img.shields.io/badge/NoSQL_Databases-4285F4?style=flat&logo=mongodb&logoColor=darkgreen&labelColor=green) <br>
-> &#x1F539; ***Monitoring Tools:***  <br>
-> ![Zabbix](https://img.shields.io/badge/Zabbix-262577?style=flat&logo=zabbix&logoColor=white&labelColor=blue)  ![Nagios](https://img.shields.io/badge/Nagios-00A99D?style=flat&logo=nagios&logoColor=white&labelColor=purple)<br>
 
 <!-- <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="GitHub Activity"> -->
 <img src="https://img.shields.io/badge/%F0%9F%92%AC%20GitHub%20Activity-B5C99A?style=flat&labelColor=2D4A3E" height="30" alt="GitHub Activity">
