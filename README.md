@@ -69,7 +69,7 @@
 
 > *Want a deeper look at my experience, skills and certifications?* <br>
 > ***Explore my professional background:*** <br>
-> 👉 ***[View Professional Profile](https://docs.google.com/document/d/1q1BZDQGXT3JgkyZBycA6Pk7HPrhvp6aK/edit?usp=sharing&ouid=108523760063577712981&rtpof=true&sd=true)***
+> 👉 ***[View Professional Profile](https://docs.google.com/document/d/1q1BZDQGXT3JgkyZBycA6Pk7HPrhvp6aK/edit?usp=sharing&ouid=108523760063577712981&rtpof=true&sd=true)*** <br>
 > <sub>💡 Tip: Ctrl+Click to open in a new tab</sub>
 
 <!-- <img src="https://img.shields.io/badge/💬%20Project%20Experience-B5C99A?style=flat-square&labelColor=2D4A3E" height="30" alt="Project Experience"> -->
